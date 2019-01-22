@@ -1,7 +1,8 @@
 import pandas as pd
 from collections import defaultdict
 import re
-import math
+import Levenshtein
+
 
 
 pf = '_sample'
@@ -13,26 +14,47 @@ def link_deeper(row, meta):
 	identifier = ''
 	# find unique row in meta that is a match
 	# match by author and/ or title
+	
+	meta['author_name_family'] = meta['author_name_family'].astype(str)
+	meta['author_name_family'] = meta.apply(lambda row: row.author_name_family.lower(), axis = 1) 	
+	
 	print(row.author)
 	#print(meta)
+	
 	possibleMatches = []
 	goldAuthor = str(row.author).lower()
 	for index, metaRow in meta.iterrows():
-		lastName = str(metaRow['author_name_family']).lower()
-		firstName = str(metaRow['author_name_given']).lower()
-		if goldAuthor.endswith(lastName): # if last names match
-			if goldAuthor.startswith(firstName): # if first names match
-				possibleMatches.append(metaRow)
+		if goldAuthor.endswith(metaRow['author_name_family']): # if last names match
+			#if firstName in goldAuthor: # if first name in gold first name (abandoned for now, too much variety to match properly)
+			possibleMatches.append(metaRow)
 				
 	if len(possibleMatches) is 1:
 		# 1 result found based on first and last name, return ppn
-		print(metaRow.name)
-		#return metaRow['
-				
-			
+		return possibleMatches[0].name
 	
-
-	return identifier
+	elif len(possibleMatches) is 0:
+		# no match found
+		return False
+	else:
+		# look at title
+		if str(row.sub_title) != 'nan':
+			goldTitle = row.main_title.lower() + ' ' + row.sub_title.lower() # add subtitle if we have one
+		else:
+			goldTitle = row.main_title.lower()
+			
+		#print('goldtitle: '+goldTitle)
+		prevSimilarityScore = 0
+		for match in possibleMatches:
+			
+			similarityScore = Levenshtein.ratio(goldTitle, match.title.lower())
+			#print(str(similarityScore) + ': '+match.title)
+			if similarityScore > prevSimilarityScore:
+				mostSimilarMatch = match
+		return(mostSimilarMatch.name)
+	
+	print('-------')
+		
+			
 
 
 
@@ -57,7 +79,7 @@ locs.update({'utrecht':'uu','leiden':'ul','rotterdam':'eur','delft':'tud','wagen
 ggc.loc[ggc.kmc_4209.isna(), 'university'] = ggc.loc[ggc.kmc_4209.isna()].apply(lambda row: locs[row.plaats.strip().lower()], axis = 1)
 
 
-meta_oai = pd.read_csv('meta_oai'+pf+'.csv', sep=';', dtype = object)
+meta_oai = pd.read_csv('meta_oai'+pf+'.csv', sep=';', dtype = object, index_col=0)
 
 
 for univ in ['eur','tud','rug','ul','uu','wur']:
@@ -70,7 +92,6 @@ for univ in ['eur','tud','rug','ul','uu','wur']:
         # if not a unique match:
         identifier = link_deeper(row, meta)
         print(identifier)
-        exit()
 
 
 #match =  ggc.loc[(ggc['isbn_'+pf]==value) | (ggc['isbnextra_'+pf] == value)]
