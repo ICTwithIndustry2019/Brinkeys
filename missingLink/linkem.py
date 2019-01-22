@@ -4,6 +4,18 @@ from collections import defaultdict
 
 pf = '_sample'
 
+# row: Pandas series with gold standard data for one item
+# meta: oai metadata (can be a subset belonging to a university)
+def link_deeper(row, meta):
+     identifier = ''
+     # find unique row in meta that is a match
+     # match by author and/ or title
+
+     return identifier
+
+
+
+
 ggc = pd.read_excel('ggc_proefschriften_v4.xlsx',dtype=object)
 ggc = pd.read_csv('meta_gold.csv',delimiter = ';', dtype=object)
 
@@ -29,8 +41,13 @@ meta_oai = pd.read_csv('meta_oai'+pf+'.csv', sep=';', dtype = object)
 
 for univ in ['eur','tud','rug','ul','uu','wur']:
     meta = meta_oai.loc[meta_oai.university== univ]
-    for row in ggc.loc[ggc.university==univ].iterrows():
-        for col in ['isbn_10','isbn_13','isbnextra_10','isbnextra_13']:
-            meta.loc['isbn_'+str(n)]
+    for row in ggc.loc[ggc.university==univ].itertuples():
+        # try to match isbn
+        #for col in ['isbn_10','isbn_13','isbnextra_10','isbnextra_13']:
+        #    meta.loc['isbn_'+str(n)]
+
+        # if not a unique match:
+        identifier = link_deeper(row, meta)
+
 
 match =  ggc.loc[(ggc['isbn_'+pf]==value) | (ggc['isbnextra_'+pf] == value)]
