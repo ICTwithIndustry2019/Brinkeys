@@ -16,8 +16,12 @@ def link_deeper(row, meta):
 
 
 
-ggc = pd.read_excel('ggc_proefschriften_v4.xlsx',dtype=object)
-ggc = pd.read_csv('meta_gold.csv',delimiter = ';', dtype=object)
+ggc = pd.read_csv('../ict_with_industry/meta_gold.csv',delimiter = ';', dtype=object)
+meta_oai = pd.read_csv('../ict_with_industry/meta_oai'+pf+'.csv', sep=';', dtype = object, index_col=0)
+ 
+isbn_columns = [col for col in meta_oai.columns if 'isbn' in col]
+for col in isbn_columns:
+    meta_oai[col] = meta_oai[col].astype(str)
 
 
 kmcs = defaultdict(str)         # mapping from kmc values to universities
@@ -36,18 +40,36 @@ locs.update({'utrecht':'uu','leiden':'ul','rotterdam':'eur','delft':'tud','wagen
 ggc.loc[ggc.kmc_4209.isna(), 'university'] = ggc.loc[ggc.kmc_4209.isna()].apply(lambda row: locs[row.plaats.strip().lower()], axis = 1)
 
 
-meta_oai = pd.read_csv('meta_oai'+pf+'.csv', sep=';', dtype = object)
 
 
 for univ in ['eur','tud','rug','ul','uu','wur']:
     meta = meta_oai.loc[meta_oai.university== univ]
-    for row in ggc.loc[ggc.university==univ].itertuples():
+    for row in ggc.loc[ggc.university==univ].head(100).itertuples():
         # try to match isbn
-        #for col in ['isbn_10','isbn_13','isbnextra_10','isbnextra_13']:
-        #    meta.loc['isbn_'+str(n)]
+        isbns = [str(isbn) for isbn in [row.isbn_10, row.isbn_13, row.isbnextra_10, row.isbnextra_13] if str(isbn)!='' ]
+        identifiers = set()
+        for isbn in isbns:
+            for column in isbn_columns:
+                identifiers.update(list(meta.loc[meta[column]==isbn].index))
 
-        # if not a unique match:
-        identifier = link_deeper(row, meta)
+
+        if len(identifiers) ==1:
+            identifier  = identifiers.pop() # should we check?
+        else: # if not a unique match:
+            if len(identifiers)>1:
+                print('Found more than one match!', row.Index, len(identifiers))
+                identifier  = identifiers.pop() # should we check?
+
+            else: identifier = link_deeper(row, meta)
 
 
-match =  ggc.loc[(ggc['isbn_'+pf]==value) | (ggc['isbnextra_'+pf] == value)]
+
+        ggc.loc[row.Index,'identifier'] = identifier
+with open ('gold_linked.csv','w', encoding='utf-8') as f:
+    f.write(ggc.to_csv(sep=';', encoding = 'utf-8'))
+
+
+
+
+
+
