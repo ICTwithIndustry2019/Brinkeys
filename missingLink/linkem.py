@@ -48,8 +48,7 @@ ggc.fillna('', inplace = True)
 meta_oai = pd.read_csv('../ict_with_industry/meta_oai'+pf+'.csv', sep=';', dtype = object, index_col=0)
 meta_oai.fillna('', inplace = True)
 isbn_columns = [col for col in meta_oai.columns if 'isbn' in col]
-# for col in isbn_columns:
-#     meta_oai[col] = meta_oai[col].astype(str)
+
 
 
 kmcs = defaultdict(str)         # mapping from kmc values to universities
@@ -67,6 +66,7 @@ locs.update({'utrecht':'uu','leiden':'ul','rotterdam':'eur','delft':'tud','wagen
 
 ggc.loc[ggc.kmc_4209=='', 'university'] = ggc.loc[ggc.kmc_4209==''].apply(lambda row: locs[row.plaats.strip().lower()], axis = 1)
 
+meta_oai = pd.read_csv('meta_oai'+pf+'.csv', sep=';', dtype = object, index_col=0)
 
 ggc['identifier'] = ''
 
@@ -94,9 +94,4 @@ for univ in ['eur','tud','rug','ul','uu','wur']:
 with open ('gold_linked.csv','w', encoding='utf-8') as f:
     f.write(ggc.to_csv(sep=';', encoding = 'utf-8'))
 print('Matched', len(ggc.loc[len(ggc.identifier)>0]), 'out of', len(ggc))
-
-
-
-
-
 
