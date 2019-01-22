@@ -1,22 +1,43 @@
 import pandas as pd
 from collections import defaultdict
+import re
+import math
 
 
 pf = '_sample'
+pf = ''
 
 # row: Pandas series with gold standard data for one item
 # meta: oai metadata (can be a subset belonging to a university)
 def link_deeper(row, meta):
-     identifier = ''
-     # find unique row in meta that is a match
-     # match by author and/ or title
+	identifier = ''
+	# find unique row in meta that is a match
+	# match by author and/ or title
+	print(row.author)
+	#print(meta)
+	possibleMatches = []
+	goldAuthor = str(row.author).lower()
+	for index, metaRow in meta.iterrows():
+		lastName = str(metaRow['author_name_family']).lower()
+		firstName = str(metaRow['author_name_given']).lower()
+		if goldAuthor.endswith(lastName): # if last names match
+			if goldAuthor.startswith(firstName): # if first names match
+				possibleMatches.append(metaRow)
+				
+	if len(possibleMatches) is 1:
+		# 1 result found based on first and last name, return ppn
+		print(metaRow.name)
+		#return metaRow['
+				
+			
+	
 
-     return identifier
+	return identifier
 
 
 
 
-ggc = pd.read_excel('ggc_proefschriften_v4.xlsx',dtype=object)
+#ggc = pd.read_excel('ggc_proefschriften_v4.xlsx',dtype=object)
 ggc = pd.read_csv('meta_gold.csv',delimiter = ';', dtype=object)
 
 
@@ -48,6 +69,8 @@ for univ in ['eur','tud','rug','ul','uu','wur']:
 
         # if not a unique match:
         identifier = link_deeper(row, meta)
+        print(identifier)
+        exit()
 
 
-match =  ggc.loc[(ggc['isbn_'+pf]==value) | (ggc['isbnextra_'+pf] == value)]
+#match =  ggc.loc[(ggc['isbn_'+pf]==value) | (ggc['isbnextra_'+pf] == value)]
