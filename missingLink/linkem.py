@@ -92,7 +92,7 @@ for univ in ['eur','tud','rug','ul','uu','wur']:
             identifier  = identifiers.pop() # should we check?
         else: # if not a unique match:
             if len(identifiers)>1: # more matches: look at author/ title
-                identifier = link_deeper(row, meta.loc[meta.identifier in identifiers])
+                identifier = link_deeper(row, meta.loc[identifiers])
             else: identifier = link_deeper(row, meta) # no isbn match: look for author/ title match
         ggc.loc[row.Index,'identifier'] = identifier
 
