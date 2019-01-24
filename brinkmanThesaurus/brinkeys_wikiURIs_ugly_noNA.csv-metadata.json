@@ -18,7 +18,7 @@
  "@context": [
   "http://csvw.clariah-sdh.eculture.labs.vu.nl/csvw.json",
   {
-   "@base": "https://iisg.amsterdam/",
+   "@base": "https://iisg.awesome/",
    "@language": "en"
   },
   {
@@ -84,31 +84,18 @@
   "primaryKey": "bURIs",
   "columns": [
    {
-    "datatype": "string",
-    "titles": [
-     "bURIs"
-    ],
-    "@id": "https://iisg.amsterdam/brinkeys_wikiURIs_ugly_noNA.csv/column/bURIs",
-    "name": "bURIs",
-    "dc:description": "bURIs"
+   "virtual": true,
+   "datatype": "string",
+   "lang": "en",
+   "aboutUrl": "{bURIs}",
+   "propertyUrl": "skos:prefLabel",
+   "csvw:value": "{topic}"
    },
    {
-    "datatype": "string",
-    "titles": [
-     "topics"
-    ],
-    "@id": "https://iisg.amsterdam/brinkeys_wikiURIs_ugly_noNA.csv/column/topics",
-    "name": "topics",
-    "dc:description": "topics"
-   },
-   {
-    "datatype": "string",
-    "titles": [
-     "wiki2"
-    ],
-    "@id": "https://iisg.amsterdam/brinkeys_wikiURIs_ugly_noNA.csv/column/wiki2",
-    "name": "wiki2",
-    "dc:description": "wiki2"
+   "virtual": true,
+   "aboutUrl": "{bURIs}",
+   "propertyUrl": "skos:related",
+   "valueUrl": "{wiki2}"
    }
   ]
  }
