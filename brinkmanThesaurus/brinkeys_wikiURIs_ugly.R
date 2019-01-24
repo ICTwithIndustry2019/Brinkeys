@@ -50,6 +50,27 @@ length(unlist(df$wiki))
 
 write.csv(df, "./brinkmanThesaurus/brinkeys_wikiURIs_ugly.csv")
 
+URIretrieve <- function(topics) {
+    unlist(find_item(topics, lang = "nl", limit = 1))[3]
+}
+
+
+names(df)
+df$wiki[7]
+df[is.na(df$wiki), ]
+table(df$wiki=="NULL")
+
+df.nolink <- df[df$wiki=="NULL", ]
+table(grepl("Test", df.nolink$topics))
+
+m <- regexpr("/^[T]est$/", df.nolink$wiki)
+regmatches(df.nolink$wiki, m)
+
+library(stringr)
+table(str_detect(df.nolink$topics, "^T[E-e][S-s][T-t]."))
+
+testbrinkeys <- df.nolink[str_detect(df.nolink$topics, "^T[Ee][Ss][Tt]."), ]
+
 
 
 
