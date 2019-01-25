@@ -42,9 +42,8 @@ for row in results:
     #print(f'Recall: {rowRecall}')
     
     # calculate precision at 3
-    # &&&& TODO &&&& check what happens to calculation when less than 3 brinkeys..
     rowFirstThree = rowBrinkeys[0:len(goldBrinkeys)] # do len of brinkeys and not 3 for when there's less than 3 brinkeys in gold
-    goldFirstThree = goldBrinkeys[0:len(goldBrinkeys)] # TOCHECK should this be 3, or the full set of brinkeys?
+    goldFirstThree = goldBrinkeys[0:len(goldBrinkeys)] 
     
     #print(f'row : {rowFirstThree}')
     #print(f'gold: {goldFirstThree}')
