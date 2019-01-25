@@ -82,7 +82,7 @@ for row in results:
         print(f'Key "{row[0]}" not found in gold standard')
 
 overallRecall = sum(recalls)/len(recalls)
-overallPrecision = sum(precisions)/len(precisions) 
+overallPrecision = sum(precisions)/len(precisions)
 f1 = 2 * ((overallPrecision * overallRecall) / (overallPrecision + overallRecall))
 
 print(f'Precision at 3: {overallPrecision}')
@@ -102,6 +102,6 @@ for label, metrics in scores_per_label.items():
     print( metrics['truePos@20'], metrics['truePos@20'] , metrics['falseNeg@20'] )
 
     recall  = metrics['truePos@20'] / ( metrics['truePos@20'] + metrics['falseNeg@20'] )
-    print('\t'+label+' - Precision: '+str(precision)+', recall: '+str(recall))
+    print('\t'+label+' ('+str(metrics['occur'])+'x) - Precision: '+str(precision)+', recall: '+str(recall))
 
 
