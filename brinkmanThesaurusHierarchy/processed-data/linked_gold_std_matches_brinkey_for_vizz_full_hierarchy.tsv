@@ -1,0 +1,2216 @@
+itemNumber	string	score	depth	hierarchy_1	hierarchy_2	hierarchy_3	hierarchy_4	hierarchy_5
+75663147	proteïnen	210	1	proteïnen				
+75658046	celbiologie	169	2	biologie	celbiologie			
+75608774	hart- en vaatziekten	153	2	ziekteleer	hart- en vaatziekten			
+75652196	moleculaire biologie	118	3	chemie	biochemie	moleculaire biologie		
+75652021	immunologie	102	1	immunologie				
+75658895	enzymen	102	2	proteïnen	enzymen			
+15438125x	katalyse	93	2	chemie	katalyse			
+75660180	kankerbehandeling	89	2	geneeskunde	kankerbehandeling			
+75657163	bacteriën	89	1	bacteriën				
+07560129x	biochemie	73	2	chemie	biochemie			
+07566450x	tumoren	73	2	ziekteleer	tumoren			
+75605902	farmacologie	70	3	chemie	toegepaste chemie	farmacologie		
+75610086	infectieziekten	67	2	ziekteleer	infectieziekten			
+75658003	cardiologie	65	3	geneeskunde	interne geneeskunde	cardiologie		
+75658909	genen	65	1	genen				
+75615193	microbiologie	64	2	biologie	microbiologie			
+75684659	computersimulatie	64	2	computertoepassingen	computersimulatie			
+75664062	stofwisseling	61	1	stofwisseling				
+07561474x	materialenkennis	60	1	materialenkennis				
+75604248	dna	60	3	chemie	biochemie	dna		
+75611791	kindergeneeskunde	55	2	geneeskunde	kindergeneeskunde			
+07561653x	nier(ziekten)	54	1	nier(ziekten)				
+75618761	plantenfysiologie	52	2	fysiologie	plantenfysiologie			
+75640945	voedingsmiddelentechnologie	52	2	technologie	voedingsmiddelentechnologie			
+07560938x	hormonen	52	1	hormonen				
+18993588x	biomaterialen	51	3	techniek	biomedische techniek	biomaterialen		
+75613832	lever(ziekten)	50	3	ziekteleer	klierziekten	lever(ziekten)		
+75663589	schimmels	50	3	planten	sporeplanten	schimmels		
+194206963	nanotechnologie	50	2	technologie	nanotechnologie			
+75616513	neurologie	49	2	geneeskunde	neurologie			
+153901284	erfelijkheidsleer	49	2	biologie	erfelijkheidsleer			
+242597815	polymeren	48	1	polymeren				
+75677350	diagnostiek	48	2	geneeskunde	diagnostiek			
+75654016	biotechnologie	47	2	technologie	biotechnologie			
+75648598	gastro-enterologie	46	2	geneeskunde	gastro-enterologie			
+75600099	bacteriologie	45	1	bacteriologie				
+75663864	spectroscopie	44	2	natuurkunde	spectroscopie			
+07560289x	chirurgie	44	2	geneeskunde	chirurgie			
+75618788	plantenziekten	44	1	plantenziekten				
+75664909	virussen	44	2	virologie	virussen			
+75617668	organische chemie	43	2	chemie	organische chemie			
+75661705	neurofysiologie	43	2	fysiologie	neurofysiologie			
+75599740	astma	41	4	ziekteleer	ademhalingsstoornissen	cara	astma	
+75623412	diabetes	41	3	ziekteleer	stofwisselingsziekten	diabetes		
+246139412	plantengenetica	41	3	biologie	erfelijkheidsleer	plantengenetica		
+75620030	radiotherapie	40	2	therapieën	radiotherapie			
+75614936	melkwegstelsels	39	2	astronomie	melkwegstelsels			
+267797737	copd	39	3	ziekteleer	ademhalingsstoornissen	copd		
+75598876	algoritmen	38	2	wiskunde	algoritmen			
+75685752	ecosystemen	37	1	ecosystemen				
+75660938	logistiek	37	1	logistiek				
+75605384	epidemiologie	37	2	gezondheidszorg	epidemiologie			
+75658488	darmkanker	36	3	ziekteleer	kanker	darmkanker		
+267179693	hartfalen	36	3	ziekteleer	hart- en vaatziekten	hartfalen		
+102367418	magnetische resonantie	36	5	geneeskunde	diagnostiek	radiodiagnostiek	tomografie	magnetische resonantie
+75601486	bloedvatenstelsel	35	4	geneeskunde	interne geneeskunde	cardiologie	bloedvatenstelsel	
+96947381	patroonherkenning	35	2	computertoepassingen	patroonherkenning			
+07567761x	moleculaire natuurkunde	35	2	natuurkunde	moleculaire natuurkunde			
+126297290	differentiaalvergelijkingen	34	2	wiskunde	differentiaalvergelijkingen			
+75659670	halfgeleiders	34	2	natuurkunde	halfgeleiders			
+75662981	polymerisatie	34	2	chemie	polymerisatie			
+189868236	membranen	34	3	technologie	chemische technologie	membranen		
+75611198	kanker	34	2	ziekteleer	kanker			
+75614545	management	34	1	management				
+75657708	bloed	34	2	hematologie	bloed			
+75664119	stromingsleer	33	3	natuurkunde	mechanica	stromingsleer		
+75613786	leukemie	33	3	hematologie	bloedziekten	leukemie		
+75617757	orthopedie	33	1	orthopedie				
+75651386	neonatologie	33	3	geneeskunde	kindergeneeskunde	neonatologie		
+97310328	sedimentologie	33	3	natuurwetenschappen	geologie	sedimentologie		
+75602792	chemische technologie	32	2	technologie	chemische technologie			
+75607220	geneesmiddelen	32	2	farmacie	geneesmiddelen			
+75626985	waterzuivering	31	1	waterzuivering				
+75688395	waterbeheer	31	3	techniek	cultuurtechniek	waterbeheer		
+75661209	geneesmiddelen ; bijwerkingen	31	3	farmacie	geneesmiddelen	geneesmiddelen ; bijwerkingen		
+75657775	borstkanker	31	3	ziekteleer	kanker	borstkanker		
+182795667	farmacotherapie	31	2	therapieën	farmacotherapie			
+75637162	endocrinologie	30	1	endocrinologie				
+75676257	plantenveredeling	30	6	economie	agrosector	landbouw	tuinbouw	plantenteelt
+75626748	waarschijnlijkheidsrekening	30	2	wiskunde	waarschijnlijkheidsrekening			
+75599201	antibiotica	30	3	farmacie	geneesmiddelen	antibiotica		
+75625210	vaste stoffen ; mechanica	30	3	natuurkunde	mechanica	vaste stoffen ; mechanica		
+75663201	kwantummechanica	29	2	natuurkunde	kwantummechanica			
+153872802	elementaire-deeltjesfysica	29	2	natuurkunde	elementaire-deeltjesfysica			
+94669805	productontwikkeling	29	2	innovatie	productontwikkeling			
+75609789	hydrologie	29	3	natuurwetenschappen	geologie	hydrologie		
+75688255	ouderen ; gezondheidszorg	29	2	gezondheidszorg	ouderen ; gezondheidszorg			
+75628732	zwangerschap	29	1	zwangerschap				
+75601419	urologie	28	2	geneeskunde	urologie			
+75648539	chemotherapie	28	2	therapieën	chemotherapie			
+75603691	darmziekten	28	2	ziekteleer	darmziekten			
+202821048	biodiversiteit	28	2	ecologie	biodiversiteit			
+75609045	hersenaandoeningen	28	2	ziekteleer	hersenaandoeningen			
+75656698	landbouweconomie	28	2	economie	landbouweconomie			
+75624486	transplantatie	28	2	geneeskunde	transplantatie			
+75599775	astrofysica	27	2	natuurkunde	astrofysica			
+75685310	cognitieve psychologie	27	3	sociale wetenschappen	psychologie	cognitieve psychologie		
+75610477	irrigatie	27	2	waterhuishouding	irrigatie			
+75668033	vaccinatie	27	3	gezondheidszorg	preventieve gezondheidszorg	vaccinatie		
+75664666	veevoeding	27	2	voeding	veevoeding			
+75675382	milieutechniek	27	2	techniek	milieutechniek			
+75663384	remote sensing	27	1	remote sensing				
+277957672	genexpressie	27	3	biologie	erfelijkheidsleer	genexpressie		
+75614146	longziekten	26	2	ziekteleer	longziekten			
+102366659	tomografie	26	4	geneeskunde	diagnostiek	radiodiagnostiek	tomografie	
+75623269	stress	26	1	stress				
+75652498	biomedische techniek	26	2	techniek	biomedische techniek			
+75661861	numerieke wiskunde	26	2	wiskunde	numerieke wiskunde			
+75617544	operations research	25	3	wiskunde	toegepaste wiskunde	operations research		
+75659883	hydrodynamica	25	3	vloeistoffen	vloeistoffen ; mechanica	hydrodynamica		
+216028701	hematologie	25	1	hematologie				
+75606615	fysische chemie	25	2	chemie	fysische chemie			
+75660687	landbouwgronden	25	1	landbouwgronden				
+126610908	geografische informatiesystemen	24	2	informatiesystemen	geografische informatiesystemen			
+75664402	toegepaste wiskunde	24	2	wiskunde	toegepaste wiskunde			
+75664860	vetten	24	1	vetten				
+75663139	prostaatkanker	24	3	ziekteleer	kanker	prostaatkanker		
+75611449	keel-, neus- en oorziekten	24	2	ziekteleer	keel-, neus- en oorziekten			
+75626217	vloeistoffen ; mechanica	24	2	vloeistoffen	vloeistoffen ; mechanica			
+75614766	mathematische statistiek	24	2	statistiek	mathematische statistiek			
+75659352	geneesmiddelengebruik	24	1	geneesmiddelengebruik				
+75603829	depressiviteit	24	1	depressiviteit				
+07564861x	huisartsgeneeskunde	24	2	geneeskunde	huisartsgeneeskunde			
+75660199	kankeronderzoek	24	2	wetenschappelijk onderzoek	kankeronderzoek			
+75609010	hersenfysiologie	24	2	fysiologie	hersenfysiologie			
+16078638x	grensvlakchemie	24	2	chemie	grensvlakchemie			
+75617595	optica	23	2	natuurkunde	optica			
+153900660	erfelijke ziekten	23	2	ziekteleer	erfelijke ziekten			
+85911453	immuuntherapie	23	2	immunologie	immuuntherapie			
+75626519	voortplanting	23	1	voortplanting				
+75613603	medische instrumenten en apparaten	23	3	technologie	medische technologie	medische instrumenten en apparaten		
+75598558	aderverkalking	22	3	ziekteleer	hart- en vaatziekten	aderverkalking		
+75657147	baarmoederhalskanker	22	3	ziekteleer	kanker	baarmoederhalskanker		
+07562592x	overgewicht	22	2	ziekteleer	overgewicht			
+75623633	tandheelkunde	22	2	geneeskunde	tandheelkunde			
+75607840	gist	22	1	gist				
+183415280	klimaatveranderingen	22	2	klimatologie	klimaatveranderingen			
+75614863	medische psychologie	22	3	sociale wetenschappen	psychologie	medische psychologie		
+75615835	motoriek	22	4	sociale wetenschappen	psychologie	functieleer (psychologie)	motoriek	
+75661322	milieueconomie	22	2	economie	milieueconomie			
+75665980	hartchirurgie	21	3	geneeskunde	chirurgie	hartchirurgie		
+250117312	genomica	21	1	genomica				
+75623080	stofwisselingsziekten	21	2	ziekteleer	stofwisselingsziekten			
+75598906	allergie	21	2	ziekteleer	allergie			
+75618451	perceptie	21	4	sociale wetenschappen	psychologie	functieleer (psychologie)	perceptie	
+75620898	nek- en rugklachten	21	2	ziekteleer	nek- en rugklachten			
+75607786	gezondheidszorg	21	1	gezondheidszorg				
+75664364	thermodynamica	21	3	natuurkunde	warmteleer	thermodynamica		
+75604094	dierfysiologie	21	2	fysiologie	dierfysiologie			
+75626039	vissen	21	2	dieren	vissen			
+29139731x	niertransplantatie	20	3	geneeskunde	transplantatie	niertransplantatie		
+75605236	embryologie	20	3	biologie	ontwikkelingsbiologie	embryologie		
+75605643	europees recht	20	2	recht	europees recht			
+75625601	verkeersvraagstuk	20	1	verkeersvraagstuk				
+75606828	gedragsstoornissen	20	2	psychiatrie	gedragsstoornissen			
+75624613	trombose	20	3	hematologie	bloedziekten	trombose		
+75648504	sociale relaties	20	4	sociale wetenschappen	psychologie	sociale psychologie	sociale relaties	
+07561507x	metalen	20	1	metalen				
+75685744	medische technologie	20	2	technologie	medische technologie			
+75656671	afvalwater	20	2	waterhuishouding	afvalwater			
+75677857	aangeboren afwijkingen	19	2	lichamelijk gehandicapten	aangeboren afwijkingen			
+75659697	hartritme(stoornissen)	19	3	ziekteleer	hart- en vaatziekten	hartritme(stoornissen)		
+75679817	medische informatica	19	3	technologie	informatietechnologie	medische informatica		
+75655047	fotosynthese	19	3	chemie	fotochemie	fotosynthese		
+75621290	schizofrenie	19	2	ziekteleer	schizofrenie			
+102048169	neurobiologie	19	2	biologie	neurobiologie			
+75605074	elektronen	19	3	natuurkunde	elementaire-deeltjesfysica	elektronen		
+75659972	informatiesystemen	19	1	informatiesystemen				
+75656590	ademhalingsstoornissen	19	2	ziekteleer	ademhalingsstoornissen			
+78865492	voedingsgewoonten	19	1	voedingsgewoonten				
+75618745	plantenecologie	19	2	ecologie	plantenecologie			
+75663430	rna	19	3	chemie	biochemie	rna		
+75665182	vruchtbaarheid	19	1	vruchtbaarheid				
+07562625x	voedingsleer	19	1	voedingsleer				
+07561491x	meettechniek	19	2	metrologie	meettechniek			
+75625202	varkens	19	4	dieren	zoogdieren	hoefdieren	varkens	
+07561815x	parasitologie	19	2	biologie	parasitologie			
+75607301	geochemie	19	3	natuurwetenschappen	geologie	geochemie		
+75611651	kernfysica	18	2	natuurkunde	kernfysica			
+07566285x	pijn(bestrijding)	18	1	pijn(bestrijding)				
+177171383	gentherapie	18	2	therapieën	gentherapie			
+75661098	marketing	18	3	economie	bedrijfseconomie	marketing		
+75609002	hersenbloeding	18	3	ziekteleer	hersenaandoeningen	hersenbloeding		
+145492346	zonnecellen	18	4	techniek	elektrotechniek	elektrische energietechniek	zonnecellen	
+75604787	ecologie	18	1	ecologie				
+75618907	pluimvee(houderij)	18	5	economie	agrosector	landbouw	veehouderij	pluimvee(houderij)
+75615622	moleculen	18	2	natuurkunde	moleculen			
+75657759	bodemvruchtbaarheid	18	1	bodemvruchtbaarheid				
+19134740x	risicoanalyse	18	1	risicoanalyse				
+75628422	ziekte van parkinson	17	2	ziekteleer	ziekte van parkinson			
+75658216	colloïdchemie	17	2	chemie	colloïdchemie			
+75656809	duurzame landbouw	17	4	economie	agrosector	landbouw	duurzame landbouw	
+75609509	huidziekten	17	2	ziekteleer	huidziekten			
+139111301	cholesterol	17	1	cholesterol				
+07561765x	organisatieontwikkeling	17	4	sociale wetenschappen	sociologie	organisatiesociologie	organisatieontwikkeling	
+75661233	melkveehouderij	17	5	economie	agrosector	landbouw	veehouderij	melkveehouderij
+75656507	aardappelen	17	3	planten	zaadplanten	aardappelen		
+75612569	kristallografie	17	1	kristallografie				
+75617234	ontwikkelingspsychologie	17	3	sociale wetenschappen	psychologie	ontwikkelingspsychologie		
+75600617	gedrag	17	3	sociale wetenschappen	sociologie	gedrag		
+75616823	oceanografie	17	1	oceanografie				
+75625296	veeziekten	17	3	geneeskunde	diergeneeskunde	veeziekten		
+75630001	china	17	1	china				
+75617269	oog(ziekten)	17	2	ziekteleer	oog(ziekten)			
+75657627	biochemisch onderzoek	17	2	wetenschappelijk onderzoek	biochemisch onderzoek			
+75659646	grondwater	17	2	water	grondwater			
+75605430	erosie	17	1	erosie				
+270934669	organometaalchemie	16	2	chemie	organometaalchemie			
+75675021	multiple sclerose	16	2	ziekteleer	multiple sclerose			
+75660598	kristalchemie	16	2	chemie	kristalchemie			
+75599635	archeologie	16	1	archeologie				
+07566366x	seismologie	16	3	natuurkunde	geofysica	seismologie		
+75605058	elektromagnetisme	16	3	natuurkunde	magnetisme	elektromagnetisme		
+75598949	aluminium	16	2	metalen	aluminium			
+246139242	dierengenetica	16	3	biologie	erfelijkheidsleer	dierengenetica		
+75677865	medische statistiek	16	2	statistiek	medische statistiek			
+75657716	bloeddruk	16	1	bloeddruk				
+75605716	evolutieleer	16	1	evolutieleer				
+75689022	consumentengedrag	16	4	sociale wetenschappen	psychologie	economische psychologie	consumentengedrag	
+75659476	gezondheidsonderzoek	16	1	gezondheidsonderzoek				
+75610124	informatietechnologie	16	2	technologie	informatietechnologie			
+75631644	kenia	16	1	kenia				
+75651696	spierziekten	15	2	ziekteleer	spierziekten			
+191737771	hepatitis	15	4	ziekteleer	klierziekten	lever(ziekten)	hepatitis	
+75661136	mathematische natuurkunde	15	2	natuurkunde	mathematische natuurkunde			
+75612119	klimatologie	15	1	klimatologie				
+75603209	computernetwerken	15	2	communicatiemedia	computernetwerken			
+90998855	speltheorie	15	3	wiskunde	toegepaste wiskunde	speltheorie		
+75617250	oogheelkunde	15	2	geneeskunde	oogheelkunde			
+07562446x	transistoren	15	1	transistoren				
+75608014	goederenvervoer	15	2	vervoer	goederenvervoer			
+75664615	varkenshouderij	15	5	economie	agrosector	landbouw	veehouderij	varkenshouderij
+07560504x	elektrochemie	15	2	chemie	elektrochemie			
+75664674	vegetatiekunde	15	1	vegetatiekunde				
+397243782	biomarkers	15	3	wetenschappelijk onderzoek	biologisch onderzoek	biomarkers		
+75608510	gynaecologie	15	2	geneeskunde	gynaecologie			
+07561023x	insectenbestrijding	15	2	ongediertebestrijding	insectenbestrijding			
+75657899	breuken (geneeskunde)	15	2	geneeskunde	breuken (geneeskunde)			
+86762931	grondonderzoek	15	2	bodemkunde	grondonderzoek			
+134940741	milieutoxicologie	15	4	chemie	toegepaste chemie	toxicologie	milieutoxicologie	
+126227810	driedimensionale afbeeldingen	15	1	driedimensionale afbeeldingen				
+75660474	koolstofverbindingen	15	3	chemie	organische chemie	koolstofverbindingen		
+07561538x	milieubeleid	15	2	overheidsbeleid	milieubeleid			
+75607344	geomorfologie	15	1	geomorfologie				
+75628333	zenuwstelsel	15	3	fysiologie	neurofysiologie	zenuwstelsel		
+75657678	biologische bestrijding	15	1	biologische bestrijding				
+75664488	trillingsleer	15	2	natuurkunde	trillingsleer			
+75661713	neuropsychologie	15	3	sociale wetenschappen	psychologie	neuropsychologie		
+75664925	vitaminen (voeding)	15	2	voedingsleer	vitaminen (voeding)			
+07565685x	aminozuren	14	3	chemie	organische chemie	aminozuren		
+75647621	reumatologie	14	2	ziekteleer	reumatologie			
+75622505	spoorwegen	14	3	logistiek	infrastructuur	spoorwegen		
+75599120	anesthesiologie	14	1	anesthesiologie				
+75626012	virologie	14	1	virologie				
+75615223	micro-elektronica	14	4	techniek	elektrotechniek	elektronica	micro-elektronica	
+75658836	elektriciteitsvoorziening	14	3	energie	energievoorziening	elektriciteitsvoorziening		
+75619512	productieplanning	14	2	logistiek	productieplanning			
+277365465	aardappelen ; ziekten	14	4	planten	zaadplanten	aardappelen	aardappelen ; ziekten	
+75660962	longkanker	14	3	ziekteleer	longziekten	longkanker		
+75659093	fotochemie	14	2	chemie	fotochemie			
+75602881	chips	14	4	techniek	schakeltechniek	elektronische schakelingen	chips	
+75626306	vogels	14	2	dieren	vogels			
+75627035	weefselleer ; menskunde	14	1	weefselleer ; menskunde				
+75664100	straling	14	1	straling				
+75668904	autoimmuunziekten	14	2	ziekteleer	autoimmuunziekten			
+75651173	schildklier(ziekten)	14	3	ziekteleer	klierziekten	schildklier(ziekten)		
+75605538	ethologie	14	2	biologie	ethologie			
+217578365	gentechnologie	14	3	technologie	biotechnologie	gentechnologie		
+265436885	supramoleculaire chemie	13	2	chemie	supramoleculaire chemie			
+75599872	atmosfeer	13	2	geografie	atmosfeer			
+297128736	stamcellen	13	3	biologie	celbiologie	stamcellen		
+75680505	kinesiologie	13	3	antropologie	antropobiologie	kinesiologie		
+75677377	intensive care	13	2	verpleegkunde	intensive care			
+75614286	luchtverontreiniging	13	2	milieuverontreiniging	luchtverontreiniging			
+75663317	regenwouden	13	2	bossen	regenwouden			
+75624540	treinverkeer	13	3	vervoer	openbaar vervoer	treinverkeer		
+75625512	toxicologie	13	3	chemie	toegepaste chemie	toxicologie		
+75601834	bosbeheer	13	2	natuurbeheer en -ontwikkeling	bosbeheer			
+13705601x	hiv	13	3	virologie	virussen	hiv		
+75625598	verkeersveiligheid	13	3	techniek	veiligheidstechniek	verkeersveiligheid		
+75620936	rundvee	13	4	dieren	zoogdieren	hoefdieren	rundvee	
+75659565	golftheorie (natuurkunde)	13	2	natuurkunde	golftheorie (natuurkunde)			
+75636808	voeding	13	1	voeding				
+75660490	koolwaterstoffen	13	3	chemie	organische chemie	koolwaterstoffen		
+75659417	gewasbescherming	13	4	economie	agrosector	landbouw	gewasbescherming	
+115151907	chronisch zieken	13	2	patiënten	chronisch zieken			
+07561295x	landbouwbedrijfsleer	13	3	economie	bedrijfseconomie	landbouwbedrijfsleer		
+75658437	cytostatica	13	3	farmacie	geneesmiddelen	cytostatica		
+75656205	tandheelkundige materialen	12	4	techniek	biomedische techniek	biomaterialen	tandheelkundige materialen	
+180964984	escherichia coli	12	2	bacteriën	escherichia coli			
+75689871	infrastructuur	12	2	logistiek	infrastructuur			
+31540132x	biobrandstoffen	12	3	energie	bio-energie	biobrandstoffen		
+75658852	elektronische schakelingen	12	3	techniek	schakeltechniek	elektronische schakelingen		
+75666022	kankerpatiënten	12	2	patiënten	kankerpatiënten			
+75606844	verstandelijk gehandicapten	12	1	verstandelijk gehandicapten				
+75659506	gezondheidszorg ; nederland	12	2	gezondheidszorg	gezondheidszorg ; nederland			
+75626063	visteelt	12	2	aquacultuur	visteelt			
+07562219x	software	12	2	computers	software			
+07560745x	gerontologie	12	1	gerontologie				
+75625415	verbintenissenrecht	12	2	recht	verbintenissenrecht			
+75628341	zetmeel	12	3	voedingsleer	koolhydraten	zetmeel		
+75619784	psychopathologie	12	3	sociale wetenschappen	psychologie	psychopathologie		
+154073040	signaalverwerking	12	3	techniek	telecommunicatietechniek	signaalverwerking		
+202424693	ondernemerschap	12	2	bedrijfskunde	ondernemerschap			
+75657465	besluitvorming	12	1	besluitvorming				
+07565959x	groei(stoornissen)	12	1	groei(stoornissen)				
+07561541x	milieuverontreiniging	12	1	milieuverontreiniging				
+75664054	stikstof	12	2	chemie	stikstof			
+07561006x	industriële vormgeving	12	1	industriële vormgeving				
+89041011	natuurbeheer en -ontwikkeling	12	1	natuurbeheer en -ontwikkeling				
+75608251	grasland	12	1	grasland				
+75631245	indonesië	12	1	indonesië				
+75617773	ouderdom	12	4	sociale wetenschappen	psychologie	ontwikkelingspsychologie	ouderdom	
+239541189	kennismanagement	11	2	management	kennismanagement			
+07560146x	bloedziekten	11	2	hematologie	bloedziekten			
+83725237	orgaan- en weefseldonaties	11	3	geneeskunde	transplantatie	orgaan- en weefseldonaties		
+75614499	ferromagnetische materialen	11	3	metalen	magnetische materialen	ferromagnetische materialen		
+75673959	supergeleiding	11	2	natuurkunde	supergeleiding			
+75659441	gewrichtsziekten	11	2	ziekteleer	gewrichtsziekten			
+75601303	biofysica	11	2	natuurkunde	biofysica			
+75635720	voedingsmiddelen	11	1	voedingsmiddelen				
+75666316	echografie	11	3	geneeskunde	diagnostiek	echografie		
+75665913	zwaartekracht	11	2	natuurkunde	zwaartekracht			
+75620596	reuma	11	1	reuma				
+75619792	psychosen	11	2	psychiatrie	psychosen			
+75622068	sociale psychologie	11	3	sociale wetenschappen	psychologie	sociale psychologie		
+101873360	organisatiesociologie	11	3	sociale wetenschappen	sociologie	organisatiesociologie		
+75627361	wetenschappelijk onderwijs	11	3	onderwijs	hoger onderwijs	wetenschappelijk onderwijs		
+159340721	lichttherapie	11	2	therapieën	lichttherapie			
+75660695	landbouwproducten	11	4	economie	agrosector	landbouw	landbouwproducten	
+75688409	traumatologie	11	3	geneeskunde	chirurgie	traumatologie		
+75601451	bloedsomloop	11	1	bloedsomloop				
+75660784	leerprocessen	11	2	onderwijskunde	leerprocessen			
+252310012	preventieve gezondheidszorg	11	2	gezondheidszorg	preventieve gezondheidszorg			
+75630567	ethiopië	11	1	ethiopië				
+122341686	coatings	11	1	coatings				
+75611910	kippen	11	6	economie	agrosector	landbouw	veehouderij	pluimvee(houderij)
+75621940	sociaal-wetenschappelijk onderzoek	11	2	sociale wetenschappen	sociaal-wetenschappelijk onderzoek			
+75612860	kustgebieden	11	1	kustgebieden				
+07566643x	rivieren	11	1	rivieren				
+75627965	zaadplanten	11	2	planten	zaadplanten			
+75628503	zintuigfysiologie	11	2	fysiologie	zintuigfysiologie			
+75648768	hersenen	11	1	hersenen				
+75615541	mobiele communicatie	11	2	communicatie	mobiele communicatie			
+07566495x	vliegen (biologie)	11	5	dieren	ongewervelde dieren	geleedpotige dieren	insecten	vliegen (biologie)
+182475743	tektoniek	11	3	natuurwetenschappen	geologie	tektoniek		
+75656892	antigenen	11	2	immunologie	antigenen			
+75660709	landinrichting	11	3	techniek	cultuurtechniek	landinrichting		
+75624265	toerisme	11	1	toerisme				
+75663104	procesbesturing	11	1	procesbesturing				
+75618869	plattelandssamenleving	11	2	maatschappij	plattelandssamenleving			
+194449335	nierdialyse	10	2	nier(ziekten)	nierdialyse			
+07563841x	bodemkunde	10	1	bodemkunde				
+75622793	stadsplanologie	10	3	ruimtelijke ordening	planologie	stadsplanologie		
+203379888	data mining	10	3	bestandsorganisatie	databanken	data mining		
+75615355	migraine	10	3	pijn(bestrijding)	hoofdpijn	migraine		
+89406516	echocardiografie	10	3	geneeskunde	diagnostiek	echocardiografie		
+75601575	bodemverontreiniging	10	2	milieuverontreiniging	bodemverontreiniging			
+75603772	dementie	10	2	ziekteleer	dementie			
+75598833	algebra	10	2	wiskunde	algebra			
+07559854x	ademhalingsorganen	10	1	ademhalingsorganen				
+242233414	zwangerschapshypertensie	10	2	zwangerschap	zwangerschapshypertensie			
+75623226	strafrecht	10	2	recht	strafrecht			
+07565976x	hoge-energiefysica	10	2	natuurkunde	hoge-energiefysica			
+75662604	overheidsorganisatie	10	1	overheidsorganisatie				
+75617463	openbaar vervoer	10	2	vervoer	openbaar vervoer			
+75659638	grondmechanica	10	3	natuurkunde	mechanica	grondmechanica		
+75620308	regeltechniek	10	2	techniek	regeltechniek			
+75623544	taalverwerving	10	1	taalverwerving				
+75599791	astronomie	10	1	astronomie				
+75680068	landbouwkundig onderzoek	10	2	wetenschappelijk onderzoek	landbouwkundig onderzoek			
+75614502	magnetisme	10	2	natuurkunde	magnetisme			
+174684134	aandachtstekortstoornis (met hyperactiviteit)	10	3	psychiatrie	gedragsstoornissen	aandachtstekortstoornis (met hyperactiviteit)		
+75603195	computertoepassingen	10	1	computertoepassingen				
+75665611	wormen	10	3	dieren	ongewervelde dieren	wormen		
+75608243	granen	10	2	voedingsmiddelen	granen			
+75665239	waterhuishouding	10	1	waterhuishouding				
+75598922	duurzame energie	10	2	energie	duurzame energie			
+75683245	wiskundige analyse	10	2	wiskunde	wiskundige analyse			
+75663325	regionale economie	10	2	economie	regionale economie			
+75608324	griep	10	3	ziekteleer	infectieziekten	griep		
+75622653	spijsverteringsorganen	10	1	spijsverteringsorganen				
+75615037	metaalkunde	10	1	metaalkunde				
+75615134	methodologie	10	1	methodologie				
+75626950	waterverontreiniging	10	2	milieuverontreiniging	waterverontreiniging			
+26164419x	celdood	10	3	biologie	celbiologie	celdood		
+75615274	microscopie	10	1	microscopie				
+75622696	staalconstructies	10	3	techniek	bouwtechniek	staalconstructies		
+75620715	roken	10	2	verslaving	roken			
+75614898	meetinstrumenten	10	1	meetinstrumenten				
+75656493	aansprakelijkheid	10	1	aansprakelijkheid				
+07560731x	geofysica	10	2	natuurkunde	geofysica			
+75598590	adolescentie	10	4	sociale wetenschappen	psychologie	ontwikkelingspsychologie	adolescentie	
+75658933	etnische groepen ; nederland	10	3	antropologie	culturele antropologie	etnische groepen ; nederland		
+75657341	beendergestel	10	4	antropologie	antropobiologie	menskunde	beendergestel	
+163824193	duurzaam bouwen	10	2	bouwkunde	duurzaam bouwen			
+75642662	oeganda	10	1	oeganda				
+90642074	magnetische materialen	9	2	metalen	magnetische materialen			
+75658283	computerlinguïstiek	9	2	taalwetenschap	computerlinguïstiek			
+75657686	biometrie	9	1	biometrie				
+158564022	psychofysiologie	9	3	sociale wetenschappen	psychologie	psychofysiologie		
+298060728	barrett-oesofagus	9	3	geneeskunde	gastro-enterologie	barrett-oesofagus		
+75624737	tuberculose	9	3	ziekteleer	infectieziekten	tuberculose		
+07568473x	ziekte van alzheimer	9	2	ziekteleer	ziekte van alzheimer			
+75663880	spierstelsel	9	1	spierstelsel				
+75658321	computersystemen	9	1	computersystemen				
+24182625x	ontwikkelingsbiologie	9	2	biologie	ontwikkelingsbiologie			
+75661144	mathematische programmering	9	1	mathematische programmering				
+07566089x	lineaire programmering	9	2	mathematische programmering	lineaire programmering			
+243146582	materiaalmoeheid	9	2	materialenkennis	materiaalmoeheid			
+291493238	lactococcen	9	2	bacteriën	lactococcen			
+75663422	rijstbouw	9	4	economie	agrosector	landbouw	rijstbouw	
+75600447	bedrijfsorganisatie	9	2	organisatieleer	bedrijfsorganisatie			
+75600943	beton	9	3	materialenkennis	bouwmaterialen	beton		
+292486073	lymfocyten	9	3	hematologie	bloed	lymfocyten		
+75658666	econometrische modellen	9	1	econometrische modellen				
+75664186	systeemontwikkeling (informatica)	9	3	technologie	informatietechnologie	systeemontwikkeling (informatica)		
+75663732	kleur- en smaakstoffen	9	4	technologie	voedingsmiddelentechnologie	voedingsadditieven	kleur- en smaakstoffen	
+75657228	bedrijfsinnovatie	9	2	innovatie	bedrijfsinnovatie			
+75616491	netwerkplanning	9	2	organisatieleer	netwerkplanning			
+75665786	ziektekosten	9	1	ziektekosten				
+237788888	stamceltransplantatie	9	2	hematologie	stamceltransplantatie			
+75660008	innovatie	9	1	innovatie				
+75664623	vaste-stoffysica	9	2	natuurkunde	vaste-stoffysica			
+75615908	multinationale ondernemingen	9	2	ondernemingen	multinationale ondernemingen			
+75640066	tanzania	9	1	tanzania				
+75600234	bankwezen	9	3	economie	financiële markten	bankwezen		
+75618311	patiënten	9	1	patiënten				
+18332689x	china ; economie	9	2	china	china ; economie			
+75654415	dierproeven	9	1	dierproeven				
+75663090	privacy	9	2	grondrechten	privacy			
+75672782	cad/cam	9	2	computergraphics	cad/cam			
+188708510	west-afrika	9	2	afrika	west-afrika			
+75603454	corrosie	9	1	corrosie				
+75642654	zimbabwe	9	1	zimbabwe				
+75658178	chromosomen	9	3	biologie	erfelijkheidsleer	chromosomen		
+75664275	tarwe	9	3	voedingsmiddelen	granen	tarwe		
+168749203	overstromingen	9	3	rampen	natuurrampen	overstromingen		
+75660733	lasertechniek	9	2	techniek	lasertechniek			
+75657635	bio-energie	9	2	energie	bio-energie			
+227450655	kinderoncologie	9	3	ziekteleer	kanker	kinderoncologie		
+75626276	voedselvraagstuk	9	2	ontwikkelingssamenwerking	voedselvraagstuk			
+75605260	emoties	9	3	sociale wetenschappen	psychologie	emoties		
+75599988	automobilisme	9	1	automobilisme				
+75619970	radiologie	9	2	geneeskunde	radiologie			
+153878231	personenvervoer	9	2	vervoer	personenvervoer			
+75605309	energiebesparing	9	2	energie	energiebesparing			
+75617226	ontwikkelingslanden	9	1	ontwikkelingslanden				
+75639173	ghana	9	1	ghana				
+75612941	landbouw	9	3	economie	agrosector	landbouw		
+75635526	arbeidsomstandigheden	9	1	arbeidsomstandigheden				
+75622025	sociale geografie	9	2	geografie	sociale geografie			
+75617641	organisatieleer	9	1	organisatieleer				
+75660725	landschapsecologie	9	2	ecologie	landschapsecologie			
+75672596	cultuursociologie	9	3	sociale wetenschappen	sociologie	cultuursociologie		
+323940382	eierstokkanker	8	3	ziekteleer	kanker	eierstokkanker		
+75622548	sportgeneeskunde	8	2	sport	sportgeneeskunde			
+75617145	onroerende zaken	8	1	onroerende zaken				
+264121368	hersentumoren	8	3	ziekteleer	tumoren	hersentumoren		
+75652528	kunstmatige intelligentie	8	1	kunstmatige intelligentie				
+75601923	bouwkunst	8	2	kunst	bouwkunst			
+75600951	betonconstructies	8	3	techniek	bouwtechniek	betonconstructies		
+75636778	verkeer	8	1	verkeer				
+75635283	farmacie	8	1	farmacie				
+75624362	topologie	8	2	wiskunde	topologie			
+07562706x	weekdieren	8	3	dieren	ongewervelde dieren	weekdieren		
+75621169	scheepsbouw	8	1	scheepsbouw				
+75599880	atomen	8	2	natuurkunde	atomen			
+75613816	levensbeschrijvingen	8	1	levensbeschrijvingen				
+75601842	bosbouw	8	2	bossen	bosbouw			
+75665441	wind	8	2	meteorologie	wind			
+75608219	grammatica	8	2	taalwetenschap	grammatica			
+75598566	bestuursrecht	8	2	recht	bestuursrecht			
+75663082	privatisering	8	1	privatisering				
+75666014	verkeerswegen	8	3	logistiek	infrastructuur	verkeerswegen		
+75671840	bioritmen	8	1	bioritmen				
+75651572	diergedrag	8	4	sociale wetenschappen	sociologie	gedrag	diergedrag	
+75601052	bewegingstherapie	8	2	therapieën	bewegingstherapie			
+75656779	algen	8	2	planten	algen			
+267164610	voedselallergie	8	3	ziekteleer	allergie	voedselallergie		
+29233012x	drug targeting	8	4	chemie	toegepaste chemie	farmacologie	drug targeting	
+75659816	huidkanker	8	3	ziekteleer	kanker	huidkanker		
+07567954x	osteoporose	8	2	ziekteleer	osteoporose			
+75660164	kaakchirurgie	8	3	geneeskunde	chirurgie	kaakchirurgie		
+121700313	reukstoffen	8	4	technologie	voedingsmiddelentechnologie	voedingsadditieven	reukstoffen	
+75617749	orthopedagogiek	8	3	agologie	pedagogiek	orthopedagogiek		
+75625822	verstedelijking	8	2	demografie	verstedelijking			
+07561992x	radar	8	1	radar				
+75610434	investeringen	8	1	investeringen				
+75606704	gassen ; mechanica	8	2	gassen@@	gassen ; mechanica			
+75604817	economische groei	8	1	economische groei				
+75608367	groenteteelt	8	5	economie	agrosector	landbouw	tuinbouw	groenteteelt
+182931137	electronic commerce	8	2	handel	electronic commerce			
+75663457	radiodiagnostiek	8	3	geneeskunde	diagnostiek	radiodiagnostiek		
+75682109	broeikaseffect	8	3	milieuverontreiniging	luchtverontreiniging	broeikaseffect		
+75625547	verkeersbeleid	8	2	overheidsbeleid	verkeersbeleid			
+408069872	nanomaterialen	8	3	technologie	nanotechnologie	nanomaterialen		
+75619695	psychiatrie	8	1	psychiatrie				
+29887718x	farmacokinetiek	8	4	chemie	toegepaste chemie	farmacologie	farmacokinetiek	
+75617609	optische instrumenten en technieken	8	1	optische instrumenten en technieken				
+75632527	mexico (land)	8	1	mexico (land)				
+07561183x	kinderpsychologie	8	4	sociale wetenschappen	psychologie	ontwikkelingspsychologie	kinderpsychologie	
+327300647	sensortechnologie	8	2	technologie	sensortechnologie			
+75601745	bomenteelt	8	1	bomenteelt				
+75619954	radioastronomie	8	2	astronomie	radioastronomie			
+07566058x	kristallen	8	1	kristallen				
+75618796	plantkunde	8	2	biologie	plantkunde			
+75680114	financieel management	8	2	management	financieel management			
+75664321	technologische vernieuwing	8	2	innovatie	technologische vernieuwing			
+75610698	jeugd	8	1	jeugd				
+175158614	omgevingspsychologie	8	3	sociale wetenschappen	psychologie	omgevingspsychologie		
+75636786	vervoer	8	1	vervoer				
+07566013x	jeugdgezondheidszorg	7	2	gezondheidszorg	jeugdgezondheidszorg			
+121730735	hyperthermie	7	1	hyperthermie				
+75603799	demografie	7	1	demografie				
+75614901	meetkunde	7	2	wiskunde	meetkunde			
+75607204	geneeskunde	7	1	geneeskunde				
+75661063	management ; gezondheidszorg	7	2	management	management ; gezondheidszorg			
+75612461	kosmologie	7	1	kosmologie				
+153186607	malaria	7	3	ziekteleer	tropische ziekten	malaria		
+88227227	kennissystemen	7	2	kunstmatige intelligentie	kennissystemen			
+75684349	ziekte van hodgkin	7	3	ziekteleer	kanker	ziekte van hodgkin		
+75623218	strafprocesrecht	7	3	recht	procesrecht	strafprocesrecht		
+75669854	medisch onderwijs	7	2	onderwijs	medisch onderwijs			
+84826533	vogelkunde	7	3	biologie	dierkunde	vogelkunde		
+07562351x	systeemtheorie	7	1	systeemtheorie				
+75599171	anorganische chemie	7	2	chemie	anorganische chemie			
+238924262	glaucoom	7	3	ziekteleer	oog(ziekten)	glaucoom		
+75599910	autisme	7	3	psychiatrie	gedragsstoornissen	autisme		
+75610310	intern transport	7	1	intern transport				
+75610388	internationale economie	7	2	economie	internationale economie			
+07567923x	mathematische psychologie	7	3	sociale wetenschappen	psychologie	mathematische psychologie		
+75618818	plastische chirurgie	7	3	geneeskunde	chirurgie	plastische chirurgie		
+75622874	statistiek	7	1	statistiek				
+75611201	kankerbestrijding	7	2	geneeskunde	kankerbestrijding			
+174882149	prenatale diagnostiek	7	3	geneeskunde	gynaecologie	prenatale diagnostiek		
+75600390	bedrijfsgeneeskunde	7	2	geneeskunde	bedrijfsgeneeskunde			
+75606852	geestelijke gezondheidszorg	7	2	gezondheidszorg	geestelijke gezondheidszorg			
+263313506	voorraadbeheer	7	2	logistiek	voorraadbeheer			
+75610353	internationaal recht	7	2	recht	internationaal recht			
+75657287	bedrijfsvestiging	7	3	geografie	economische geografie	bedrijfsvestiging		
+75659344	geneeskunde ; opleiding	7	2	geneeskunde	geneeskunde ; opleiding			
+75665506	wiskundige logica	7	2	logica	wiskundige logica			
+75659964	industriële innovatie	7	2	innovatie	industriële innovatie			
+75622882	stedenbouw	7	4	ruimtelijke ordening	planologie	stadsplanologie	stedenbouw	
+37834823x	oncologische chirurgie	7	3	geneeskunde	kankerbehandeling	oncologische chirurgie		
+100450830	russische federatie	7	1	russische federatie				
+75623498	syntaxis	7	2	taalwetenschap	syntaxis			
+75604825	economische politiek	7	2	politiek	economische politiek			
+75601478	bloedtransfusie	7	1	bloedtransfusie				
+314342192	sekseverschillen	7	2	sociale wetenschappen	sekseverschillen			
+75625288	veeteelt	7	4	economie	agrosector	landbouw	veeteelt	
+75601524	bloementeelt	7	5	economie	agrosector	landbouw	tuinbouw	bloementeelt
+98141651	tribologie	7	2	werktuigbouwkunde	tribologie			
+75615118	meteorologie	7	1	meteorologie				
+75657473	bevolkingsonderzoek	7	2	gezondheidszorg	bevolkingsonderzoek			
+07567856x	theoretische natuurkunde	7	2	natuurkunde	theoretische natuurkunde			
+75658089	chemische fysica	7	2	natuurkunde	chemische fysica			
+75609525	huisartsen	7	2	geneeskundigen	huisartsen			
+75680041	revalidatiegeneeskunde	7	2	geneeskunde	revalidatiegeneeskunde			
+291506313	geslachtshormonen	7	2	hormonen	geslachtshormonen			
+75612895	kwaliteitsmanagement	7	2	management	kwaliteitsmanagement			
+75658887	energie-economie	7	2	economie	energie-economie			
+75651645	agressie	7	4	sociale wetenschappen	psychologie	emoties	agressie	
+75626683	vuilverwerking	7	3	economie	industrie	vuilverwerking		
+75664607	variatierekening	7	2	wiskunde	variatierekening			
+75598361	aardkorst	7	3	natuurwetenschappen	geologie	aardkorst		
+75606593	fysiologie	7	1	fysiologie				
+75602040	brandstoffen	7	2	energie	brandstoffen			
+141004967	procesindustrie	7	3	economie	industrie	procesindustrie		
+88165566	vietnam	7	1	vietnam				
+07567842x	endoscopie	7	3	geneeskunde	diagnostiek	endoscopie		
+75601931	bouwmaterialen	7	2	materialenkennis	bouwmaterialen			
+07565668x	agrarische sociologie	7	3	sociale wetenschappen	sociologie	agrarische sociologie		
+75620251	recycling	7	4	economie	industrie	vuilverwerking	recycling	
+09004147x	risicobeheer	7	2	management	risicobeheer			
+75656612	aërodynamica	7	3	gassen@@	gassen ; mechanica	aërodynamica		
+07568893x	economische geografie	7	2	geografie	economische geografie			
+75665883	zuurstof	7	1	zuurstof				
+75598787	akoestiek	7	3	natuurkunde	geluidsleer	akoestiek		
+89481925	burkina faso	7	1	burkina faso				
+07566562x	zaad (landbouw)	7	4	economie	agrosector	landbouw	zaad (landbouw)	
+75628899	afrika	7	1	afrika				
+75612968	landbouwbeleid	7	2	overheidsbeleid	landbouwbeleid			
+75659921	incontinentie	6	2	ziekteleer	incontinentie			
+122338634	virtual reality	6	1	virtual reality				
+75648636	psycholinguïstiek	6	2	taalwetenschap	psycholinguïstiek			
+292322593	artrose	6	3	ziekteleer	gewrichtsziekten	artrose		
+190748389	lupus erythematodes	6	3	ziekteleer	autoimmuunziekten	lupus erythematodes		
+291944671	psychofarmaca	6	3	farmacie	geneesmiddelen	psychofarmaca		
+75599589	arbeidsrecht	6	2	recht	arbeidsrecht			
+75625342	vennootschappen	6	2	recht	vennootschappen			
+242732836	luminescentie	6	3	chemie	fotochemie	luminescentie		
+216389194	containervervoer	6	3	vervoer	goederenvervoer	containervervoer		
+370853911	orthopedische chirurgie	6	2	orthopedie	orthopedische chirurgie			
+236130854	septikemie	6	2	ziekteleer	septikemie			
+24391041x	ziekenhuisinfecties	6	3	ziekteleer	infectieziekten	ziekenhuisinfecties		
+75674408	neutronenradiografie	6	1	neutronenradiografie				
+75653451	chromatografie	6	3	chemie	analytische chemie	chromatografie		
+75618478	personeelsbeleid	6	1	personeelsbeleid				
+75625008	universiteiten	6	1	universiteiten				
+75659158	functietheorie	6	2	wiskunde	functietheorie			
+75606534	fruitteelt	6	5	economie	agrosector	landbouw	tuinbouw	fruitteelt
+136927971	tweetaligheid	6	2	taal	tweetaligheid			
+07560275x	chemie	6	1	chemie				
+227555309	teamwerk	6	4	sociale wetenschappen	sociologie	arbeidssociologie	teamwerk	
+75627558	windturbines	6	4	werktuigbouwkunde	aandrijftechniek	turbines	windturbines	
+07568859x	vermogenselektronica	6	4	techniek	elektrotechniek	elektronica	vermogenselektronica	
+19514015x	wachttijdtheorie	6	4	wiskunde	toegepaste wiskunde	operations research	wachttijdtheorie	
+75660059	internationale organisaties	6	1	internationale organisaties				
+242296734	ovaria	6	2	geslachtsorganen	ovaria			
+75607417	geriatrie	6	2	geneeskunde	geriatrie			
+75625563	verkeerskunde	6	1	verkeerskunde				
+75660466	koolhydraten	6	2	voedingsleer	koolhydraten			
+75659581	grafentheorie	6	2	wiskunde	grafentheorie			
+75605368	engelse taalkunde	6	2	taalkunde	engelse taalkunde			
+387365257	intelligente transportsystemen	6	2	vervoer	intelligente transportsystemen			
+75610221	insecten	6	4	dieren	ongewervelde dieren	geleedpotige dieren	insecten	
+407433503	wespen	6	5	dieren	ongewervelde dieren	geleedpotige dieren	insecten	wespen
+75610116	informatievoorziening	6	1	informatievoorziening				
+07565881x	eerstelijnsgezondheidszorg	6	2	gezondheidszorg	eerstelijnsgezondheidszorg			
+75690640	vloeistoffen	6	1	vloeistoffen				
+75659484	gezondheidsvoorlichting	6	2	voorlichting	gezondheidsvoorlichting			
+195152700	interstellaire materie	6	2	astronomie	interstellaire materie			
+75622750	staatsrecht	6	2	recht	staatsrecht			
+75622688	staal	6	1	staal				
+205437494	manisch-depressieve stoornis	6	1	manisch-depressieve stoornis				
+07559904x	analytische chemie	6	2	chemie	analytische chemie			
+75603586	cultuurgeschiedenis	6	2	geschiedenis	cultuurgeschiedenis			
+75659360	geotechnologie	6	2	technologie	geotechnologie			
+75664658	veehouderij	6	4	economie	agrosector	landbouw	veehouderij	
+75604930	elektriciteitsleer	6	2	natuurkunde	elektriciteitsleer			
+75635496	geodesie	6	1	geodesie				
+75689197	voedingsmiddelen ; conserveren	6	2	conserveren	voedingsmiddelen ; conserveren			
+75660148	jeugdzorg	6	2	hulpverlening	jeugdzorg			
+75609487	huid	6	1	huid				
+75646641	alvleesklier(ziekten)	6	3	ziekteleer	klierziekten	alvleesklier(ziekten)		
+07998455x	prijsstelling (bedrijfseconomie)	6	3	economie	bedrijfseconomie	prijsstelling (bedrijfseconomie)		
+75614820	medezeggenschap	6	1	medezeggenschap				
+75681269	gehoor	6	2	zintuigen	gehoor			
+75644762	terminals (vervoer)	6	3	vervoer	goederenvervoer	terminals (vervoer)		
+75658275	computers in het onderwijs	6	3	technologie	onderwijstechnologie	computers in het onderwijs		
+75605341	energievoorziening	6	2	energie	energievoorziening			
+75599023	amputaties	6	3	geneeskunde	chirurgie	amputaties		
+75600412	bedrijfskunde	6	1	bedrijfskunde				
+75622807	stadsvernieuwing	6	5	ruimtelijke ordening	planologie	stadsplanologie	stedenbouw	stadsvernieuwing
+75607484	geslachtsorganen	6	1	geslachtsorganen				
+75621606	semantiek	6	2	taalwetenschap	semantiek			
+75663198	kwantumchemie	6	2	chemie	kwantumchemie			
+75614359	maagziekten	6	2	ziekteleer	maagziekten			
+75615312	midden- en kleinbedrijf	6	2	bedrijven	midden- en kleinbedrijf			
+75634643	zuid-afrika	6	1	zuid-afrika				
+75655675	nepal	6	1	nepal				
+75658828	efficiency	6	1	efficiency				
+07562091x	ruimtelijke ordening	6	1	ruimtelijke ordening				
+75672901	benin	6	1	benin				
+75659514	gezondheidszorg ; buitenland	6	2	gezondheidszorg	gezondheidszorg ; buitenland			
+75617927	paarden	6	4	dieren	zoogdieren	hoefdieren	paarden	
+75659409	gevaarlijke stoffen	6	2	milieuverontreiniging	gevaarlijke stoffen			
+75604132	diergeneeskunde	6	2	geneeskunde	diergeneeskunde			
+75661381	mineralen (voeding)	6	2	voedingsleer	mineralen (voeding)			
+371244730	agroforestry	6	4	economie	agrosector	landbouw	agroforestry	
+75657260	ondernemingsrecht	5	2	recht	ondernemingsrecht			
+311716482	syndroom van sjögren	5	3	ziekteleer	autoimmuunziekten	syndroom van sjögren		
+75625733	vermogensrecht	5	2	recht	vermogensrecht			
+75660822	leidinggeven	5	1	leidinggeven				
+302322469	computerarchitectuur	5	2	computers	computerarchitectuur			
+279740026	syndroom van guillain-barré	5	3	geneeskunde	neurologie	syndroom van guillain-barré		
+75654741	hemofilie	5	3	hematologie	bloedziekten	hemofilie		
+75615401	milieurecht	5	3	recht	omgevingsrecht	milieurecht		
+75603233	computerwiskunde	5	2	wiskunde	computerwiskunde			
+07562298x	sterren	5	2	astronomie	sterren			
+07562799x	zakenrecht	5	2	recht	zakenrecht			
+75611821	kinderpsychiatrie	5	2	psychiatrie	kinderpsychiatrie			
+75655624	orthodontie	5	3	geneeskunde	tandheelkunde	orthodontie		
+75607735	gezinssociologie	5	3	sociale wetenschappen	sociologie	gezinssociologie		
+75661152	mechanische technologie	5	2	technologie	mechanische technologie			
+84789891	lymfklier(ziekten)	5	3	ziekteleer	klierziekten	lymfklier(ziekten)		
+75624745	tuberculosebestrijding	5	1	tuberculosebestrijding				
+242836615	information retrieval	5	2	informatievoorziening	information retrieval			
+75625741	verpakking	5	1	verpakking				
+75619733	psychodiagnostiek	5	3	geneeskunde	diagnostiek	psychodiagnostiek		
+75602679	cement	5	3	materialenkennis	bouwmaterialen	cement		
+07561880x	plastics	5	3	polymeren	kunststoffen	plastics		
+75657422	beleggen	5	3	handel	beurswezen	beleggen		
+75622785	stadsgeografie	5	3	geografie	sociale geografie	stadsgeografie		
+243144229	bekken (anatomie)	5	5	antropologie	antropobiologie	menskunde	beendergestel	bekken (anatomie)
+75605317	energiebronnen	5	1	energiebronnen				
+75600927	bestuurswetenschap	5	1	bestuurswetenschap				
+75689219	voedingsmiddelenindustrie	5	3	economie	industrie	voedingsmiddelenindustrie		
+07563323x	peru	5	3	amerika (dubbelcontinent)	zuid-amerika	peru		
+07566612x	statistische mechanica	5	2	natuurkunde	statistische mechanica			
+75623323	studenten	5	1	studenten				
+267104944	antropogenetica	5	3	biologie	erfelijkheidsleer	antropogenetica		
+75610132	infraroodtechniek	5	1	infraroodtechniek				
+75617870	overheidsbeleid	5	1	overheidsbeleid				
+291281559	plattelandseconomie	5	2	economie	plattelandseconomie			
+75620618	revalidatie	5	1	revalidatie				
+75661888	offshore technologie	5	2	technologie	offshore technologie			
+75599554	arbeidsmigratie	5	2	migratie	arbeidsmigratie			
+75663252	recht ; geschiedenis	5	2	recht	recht ; geschiedenis			
+07561636x	navigatie-instrumenten	5	1	navigatie-instrumenten				
+75601974	bouwtechniek	5	2	techniek	bouwtechniek			
+75614235	luchthavens	5	4	logistiek	infrastructuur	luchtverkeer	luchthavens	
+75635941	mensenrechten	5	1	mensenrechten				
+75686899	computergraphics	5	1	computergraphics				
+75612291	koloniale geschiedenis ; nederland	5	3	geschiedenis	nederland ; geschiedenis	koloniale geschiedenis ; nederland		
+75599147	angsten	5	1	angsten				
+75612208	knaagdieren	5	3	dieren	zoogdieren	knaagdieren		
+75663171	psychosociale hulp	5	2	hulpverlening	psychosociale hulp			
+75602245	taalkunde ; overige talen	5	2	taalkunde	taalkunde ; overige talen			
+75624699	tropische ziekten	5	2	ziekteleer	tropische ziekten			
+75628457	ziekteverzuim	5	1	ziekteverzuim				
+75658232	communicatiesystemen	5	1	communicatiesystemen				
+75663724	slib	5	1	slib				
+180713000	elektrofysiologie	5	2	fysiologie	elektrofysiologie			
+155731181	persoonlijkheidsstoornissen	5	2	psychiatrie	persoonlijkheidsstoornissen			
+157198022	plankton	5	3	flora	waterflora	plankton		
+75613123	lassen	5	1	lassen				
+75603705	databanken	5	2	bestandsorganisatie	databanken			
+75600919	bestrijdingsmiddelen	5	1	bestrijdingsmiddelen				
+75632705	nederland	5	1	nederland				
+75604582	drinkwatervoorziening	5	3	water	drinkwater	drinkwatervoorziening		
+75615665	monetaire politiek	5	3	politiek	economische politiek	monetaire politiek		
+07565914x	fruit	5	2	voedingsmiddelen	fruit			
+75659115	foutentheorie	5	1	foutentheorie				
+185947549	eindige-elementenmethode	5	3	wiskunde	numerieke wiskunde	eindige-elementenmethode		
+75614855	medische ethiek	5	3	ethiek	gezondheidsethiek	medische ethiek		
+75610175	inkomensverdeling	5	1	inkomensverdeling				
+75619504	productie	5	1	productie				
+166270431	radiobiologie	5	1	radiobiologie				
+75614812	mechanica	5	2	natuurkunde	mechanica			
+75658364	conflicten	5	1	conflicten				
+97727075	cystic fibrosis	5	3	ziekteleer	stofwisselingsziekten	cystic fibrosis		
+75625326	veiligheidstechniek	5	2	techniek	veiligheidstechniek			
+75635593	informatieverwerking	5	1	informatieverwerking				
+75636824	wet- en regelgeving	5	1	wet- en regelgeving				
+75613069	landschapsarchitectuur	5	3	kunst	bouwkunst	landschapsarchitectuur		
+75624060	therapieën	5	1	therapieën				
+75614928	melk	5	3	voedingsmiddelen	zuivelproducten	melk		
+123281172	informatiemanagement	5	2	management	informatiemanagement			
+75606887	geheugen	5	4	sociale wetenschappen	psychologie	functieleer (psychologie)	geheugen	
+75618001	paleontologie	5	1	paleontologie				
+07562964x	bangladesh	5	1	bangladesh				
+75627426	wetenschapsleer	5	2	filosofie	wetenschapsleer			
+75661101	markttheorie	5	2	economie	markttheorie			
+75605147	elektrotechniek	5	2	techniek	elektrotechniek			
+75599503	arbeidseconomie	5	3	economie	sociale economie	arbeidseconomie		
+75653370	ionen	5	2	natuurkunde	ionen			
+75619652	prijspolitiek	5	3	politiek	economische politiek	prijspolitiek		
+75634058	sri lanka	5	1	sri lanka				
+07560826x	grassen	5	1	grassen				
+75658313	informaticarecht	5	2	recht	informaticarecht			
+75616246	natuurbescherming	5	1	natuurbescherming				
+75657805	bossen	5	1	bossen				
+75686252	dyslexie	4	3	leerstoornissen	leesstoornissen	dyslexie		
+07559918x	antennes	4	1	antennes				
+75611279	kantoorgebouwen	4	2	gebouwen	kantoorgebouwen			
+75658100	chinese taal- en letterkunde	4	2	letterkunde	chinese taal- en letterkunde			
+75659549	glastuinbouw	4	5	economie	agrosector	landbouw	tuinbouw	glastuinbouw
+241425522	foraminiferen	4	3	fauna	waterfauna	foraminiferen		
+189672676	slakken	4	4	dieren	ongewervelde dieren	weekdieren	slakken	
+75661004	luchtvaarttechniek	4	2	techniek	luchtvaarttechniek			
+332995682	sociale media	4	2	communicatiemedia	sociale media			
+75624834	tunnelbouw	4	2	bouwkunde	tunnelbouw			
+371085454	schildklierkanker	4	3	ziekteleer	kanker	schildklierkanker		
+227408284	xenotransplantatie	4	3	geneeskunde	transplantatie	xenotransplantatie		
+75611481	kennisleer	4	2	filosofie	kennisleer			
+75622580	spraakstoornissen	4	1	spraakstoornissen				
+75657023	arbeidssociologie	4	3	sociale wetenschappen	sociologie	arbeidssociologie		
+185911978	salmonella	4	2	bacteriën	salmonella			
+75613905	licht	4	2	straling	licht			
+75606194	financieringsleer	4	3	economie	bedrijfseconomie	financieringsleer		
+75661039	maagkanker	4	3	ziekteleer	maagziekten	maagkanker		
+75627094	wegenbouwkunde	4	2	bouwkunde	wegenbouwkunde			
+75662914	plasmafysica	4	2	natuurkunde	plasmafysica			
+75619709	psychiatrische behandelingsmethoden	4	1	psychiatrische behandelingsmethoden				
+161784372	mantelzorg	4	3	arbeid	vrijwilligerswerk	mantelzorg		
+75619490	privaatrecht	4	2	recht	privaatrecht			
+75620669	rioleringen	4	1	rioleringen				
+75662884	plantaardige oliën	4	1	plantaardige oliën				
+75604159	dieselmotoren	4	4	werktuigbouwkunde	aandrijftechniek	motoren	dieselmotoren	
+75605783	experimentele fysica	4	2	natuurkunde	experimentele fysica			
+07561166x	kernreactoren	4	1	kernreactoren				
+07566349x	ruimtevaarttechniek	4	2	techniek	ruimtevaarttechniek			
+75608804	havens	4	1	havens				
+75617137	onkruidbestrijding	4	1	onkruidbestrijding				
+75598663	afasie	4	3	leerstoornissen	taalstoornissen	afasie		
+75625695	verloskunde	4	2	geneeskunde	verloskunde			
+75605090	elektronica	4	3	techniek	elektrotechniek	elektronica		
+292394365	ondernemingsbestuur	4	2	bedrijfskunde	ondernemingsbestuur			
+75607808	gieterijtechniek	4	2	techniek	gieterijtechniek			
+75603187	computergeheugens	4	5	sociale wetenschappen	psychologie	functieleer (psychologie)	geheugen	computergeheugens
+29153399x	streptokokken	4	2	bacteriën	streptokokken			
+75625229	vectoranalyse	4	2	wiskunde	vectoranalyse			
+241503647	massaspectrometrie	4	3	natuurkunde	spectroscopie	massaspectrometrie		
+175585261	bedrijfsmilieuzorg	4	2	milieubeheer	bedrijfsmilieuzorg			
+07561278x	kunststoffen	4	2	polymeren	kunststoffen			
+75604663	duinen	4	2	natuurgebieden	duinen			
+31537800x	plaveiselcelcarcinoom	4	3	ziekteleer	tumoren	plaveiselcelcarcinoom		
+75617625	opvoeding	4	1	opvoeding				
+75663740	snijbloemen	4	2	bloemen	snijbloemen			
+75688247	vrouwen ; gezondheidszorg	4	2	vrouwen	vrouwen ; gezondheidszorg			
+75661454	morfologie (biologie)	4	2	biologie	morfologie (biologie)			
+75598388	aardolie-industrie	4	4	economie	industrie	procesindustrie	aardolie-industrie	
+75651378	neurochirurgie	4	3	geneeskunde	chirurgie	neurochirurgie		
+75670380	in-vitrofertilisatie	4	2	voortplanting	in-vitrofertilisatie			
+216088011	niet-gouvernementele organisaties	4	2	internationale organisaties	niet-gouvernementele organisaties			
+75657929	allochtone jongeren	4	4	antropologie	culturele antropologie	etnische groepen ; nederland	allochtone jongeren	
+177178264	woningmarkt	4	3	economie	markttheorie	woningmarkt		
+75615371	milieubeheer	4	1	milieubeheer				
+75599546	arbeidsmarkt	4	4	economie	sociale economie	arbeidseconomie	arbeidsmarkt	
+75603527	criminaliteit	4	1	criminaliteit				
+75662086	opsporingsonderzoek	4	1	opsporingsonderzoek				
+75628619	zout	4	1	zout				
+75607336	geologie	4	2	natuurwetenschappen	geologie			
+75599724	asielrecht	4	3	recht	vreemdelingenrecht	asielrecht		
+402314883	competentiegericht onderwijs	4	2	onderwijs	competentiegericht onderwijs			
+277360307	humaan papillomavirus	4	3	virologie	virussen	humaan papillomavirus		
+75620138	rechterlijke macht	4	2	recht	rechterlijke macht			
+75664917	vitaminen (biologie)	4	2	biologie	vitaminen (biologie)			
+75612917	laboratoriumtechnieken	4	2	natuurkunde	laboratoriumtechnieken			
+75626500	voortgezet onderwijs	4	2	onderwijs	voortgezet onderwijs			
+75663449	robotica	4	4	technologie	mechanische technologie	mechatronica	robotica	
+197228631	hersenvliesontsteking	4	3	ziekteleer	hersenaandoeningen	hersenvliesontsteking		
+75687704	bodemsanering	4	3	hygiëne	milieuhygiëne	bodemsanering		
+75631210	india	4	1	india				
+75607530	gesteenten	4	1	gesteenten				
+75663791	sociale veranderingen	4	1	sociale veranderingen				
+75605732	exegese	4	1	exegese				
+391741861	disease management	4	2	gezondheidszorg	disease management			
+75620170	rechtspraak	4	1	rechtspraak				
+241689473	enzymtherapie	4	3	proteïnen	enzymen	enzymtherapie		
+75672588	taxonomie (biologie)	4	2	biologie	taxonomie (biologie)			
+75662892	plantengeografie	4	3	geografie	biogeografie	plantengeografie		
+262668882	controletheorie (wiskunde)	4	2	wiskunde	controletheorie (wiskunde)			
+75615657	mondhygiëne	4	3	hygiëne	lichaamsverzorging	mondhygiëne		
+100253369	neurale netwerken	4	2	kunstmatige intelligentie	neurale netwerken			
+75601885	bouwbedrijf	4	2	bedrijven	bouwbedrijf			
+75666030	longchirurgie	4	3	geneeskunde	chirurgie	longchirurgie		
+75638436	noordzee	4	1	noordzee				
+75666472	computerbeveiliging	4	2	beveiliging	computerbeveiliging			
+241543932	gehoorapparaten	4	4	technologie	medische technologie	medische instrumenten en apparaten	gehoorapparaten	
+165972076	biomechanica	4	3	natuurkunde	mechanica	biomechanica		
+227914430	maïs	4	2	grassen	maïs			
+228056330	financiële markten	4	2	economie	financiële markten			
+75628562	zonne-energie	4	2	energie	zonne-energie			
+75628449	ziekteleer	4	1	ziekteleer				
+75661675	neerslag	4	2	meteorologie	neerslag			
+75665905	zure regen	4	3	meteorologie	neerslag	zure regen		
+75620189	rechtssociologie	4	3	sociale wetenschappen	sociologie	rechtssociologie		
+75663767	sociaal-economisch beleid	4	2	overheidsbeleid	sociaal-economisch beleid			
+75604175	digitale techniek	4	3	techniek	elektrotechniek	digitale techniek		
+75612542	kredietwezen	4	4	economie	financiële markten	bankwezen	kredietwezen	
+75615363	migratie	4	1	migratie				
+07559871x	afvalstoffen	4	2	milieuverontreiniging	afvalstoffen			
+244620741	schadevergoeding	4	2	recht	schadevergoeding			
+75636751	autoverkeer	4	2	verkeer	autoverkeer			
+75603551	culturele antropologie	4	2	antropologie	culturele antropologie			
+75662000	ontwikkelingseconomie	4	2	economie	ontwikkelingseconomie			
+75689863	jeugdpsychiatrie	4	2	psychiatrie	jeugdpsychiatrie			
+75627108	wegverkeer	4	2	verkeer	wegverkeer			
+75620553	onderzoek en ontwikkeling	4	1	onderzoek en ontwikkeling				
+75619741	psychomotorische therapie	4	2	therapieën	psychomotorische therapie			
+75660385	kindervoeding	4	2	voeding	kindervoeding			
+75598396	aardoliewinning	4	2	mijnbouw	aardoliewinning			
+75684365	economische psychologie	4	3	sociale wetenschappen	psychologie	economische psychologie		
+75608375	groepen (sociologie)	4	3	sociale wetenschappen	sociologie	groepen (sociologie)		
+75659298	geluk	4	1	geluk				
+07565766x	biologisch onderzoek	4	2	wetenschappelijk onderzoek	biologisch onderzoek			
+07568554x	europa ; economie	4	2	europa	europa ; economie			
+75645815	kameroen	4	1	kameroen				
+75660326	kinderen	4	1	kinderen				
+75618516	persoonlijkheidsleer	4	3	sociale wetenschappen	psychologie	persoonlijkheidsleer		
+75663155	psychiatrische patiënten	4	2	patiënten	psychiatrische patiënten			
+75670836	aquacultuur	4	1	aquacultuur				
+75627930	ijzer	4	2	metalen	ijzer			
+75633558	thailand	4	1	thailand				
+75608413	grondpolitiek	4	2	politiek	grondpolitiek			
+75622661	spijsvertering	4	1	spijsvertering				
+75615495	mineralen	4	1	mineralen				
+07560566x	europese integratie	4	1	europese integratie				
+75630753	filippijnen	4	1	filippijnen				
+12385914x	victoriameer	4	1	victoriameer				
+75637391	brazilië	4	3	amerika (dubbelcontinent)	zuid-amerika	brazilië		
+75626268	voedingsmiddelencontrole	4	1	voedingsmiddelencontrole				
+292009585	maatschappelijk verantwoord ondernemen	4	3	bedrijfskunde	ondernemerschap	maatschappelijk verantwoord ondernemen		
+160789532	beroepsziekten	4	2	ziekteleer	beroepsziekten			
+75602156	bruggen	4	1	bruggen				
+75600897	besliskunde	4	1	besliskunde				
+75660393	kinderziekten	4	2	ziekteleer	kinderziekten			
+406332118	maan	3	3	astronomie	manen	maan		
+75609746	hydraulische techniek	3	2	techniek	hydraulische techniek			
+75607360	gerechtelijke geneeskunde	3	2	opsporingsonderzoek	gerechtelijke geneeskunde			
+75605414	erfrecht	3	2	recht	erfrecht			
+07561748x	openbare financiën	3	3	politiek	economische politiek	openbare financiën		
+75614383	maatschappelijk werk	3	1	maatschappelijk werk				
+75599767	astrochemie	3	2	chemie	astrochemie			
+227580532	kwantumveldentheorie	3	2	natuurkunde	kwantumveldentheorie			
+75652374	vlinders	3	5	dieren	ongewervelde dieren	geleedpotige dieren	insecten	vlinders
+75619539	programmeertalen	3	1	programmeertalen				
+75614804	middelbaar beroepsonderwijs	3	3	onderwijs	beroepsonderwijs	middelbaar beroepsonderwijs		
+216265517	bestuurdersaansprakelijkheid	3	2	aansprakelijkheid	bestuurdersaansprakelijkheid			
+75688913	elektrocardiografie	3	3	geneeskunde	diagnostiek	elektrocardiografie		
+75617676	organische technische oliën	3	1	organische technische oliën				
+75612275	koeltechniek	3	2	techniek	koeltechniek			
+34164854x	bestuursprocesrecht	3	3	recht	procesrecht	bestuursprocesrecht		
+75621991	sociale ethiek	3	2	ethiek	sociale ethiek			
+75613743	leraren	3	1	leraren				
+188845534	asfalt	3	3	materialenkennis	bouwmaterialen	asfalt		
+75611368	cartografie	3	1	cartografie				
+75610329	internationaal handelsrecht	3	3	recht	handelsrecht	internationaal handelsrecht		
+07562494x	uitgeverij	3	1	uitgeverij				
+75660814	leesvaardigheid	3	2	lezen	leesvaardigheid			
+75606283	fonologie	3	2	taalwetenschap	fonologie			
+07562575x	verpleegkunde	3	1	verpleegkunde				
+75663228	radiochemie	3	2	chemie	radiochemie			
+75609886	immigratie	3	2	migratie	immigratie			
+75664984	vliegtuigmaterialen	3	4	techniek	luchtvaarttechniek	vliegtuigbouw	vliegtuigmaterialen	
+191475289	onderhandelen	3	2	gesprekstechniek	onderhandelen			
+07561037x	internationaal strafrecht	3	3	recht	strafrecht	internationaal strafrecht		
+75600978	beurswezen	3	2	handel	beurswezen			
+75604809	economie	3	1	economie				
+75605899	farmaceutische producten	3	1	farmaceutische producten				
+75659204	gasvoorziening	3	3	energie	energievoorziening	gasvoorziening		
+96044020	spraak (computertechniek)	3	2	computertoepassingen	spraak (computertechniek)			
+75659611	groepentheorie (wiskunde)	3	2	wiskunde	groepentheorie (wiskunde)			
+263505294	blaaskanker	3	3	ziekteleer	kanker	blaaskanker		
+215174062	parodontologie	3	3	geneeskunde	tandheelkunde	parodontologie		
+75656515	aardmagnetisme	3	3	natuurkunde	magnetisme	aardmagnetisme		
+75605848	faillissementsrecht	3	2	recht	faillissementsrecht			
+07561703x	onderwijsresearch	3	2	onderzoek en ontwikkeling	onderwijsresearch			
+315466634	emissiehandel	3	4	recht	omgevingsrecht	milieurecht	emissiehandel	
+75623560	taalwetenschap	3	1	taalwetenschap				
+244172382	coeliakie	3	3	ziekteleer	darmziekten	coeliakie		
+75674416	compileerprogramma's	3	2	computerprogramma's	compileerprogramma's			
+75601737	bomen	3	2	planten	bomen			
+75614685	marktonderzoek	3	4	economie	bedrijfseconomie	marketing	marktonderzoek	
+75662787	pathologische anatomie	3	4	biologie	morfologie (biologie)	anatomie	pathologische anatomie	
+75663074	prijsontwikkeling	3	1	prijsontwikkeling				
+75625776	verpleegtehuizen	3	1	verpleegtehuizen				
+273852167	microsysteemtechnologie	3	2	technologie	microsysteemtechnologie			
+75619016	politieke partijen ; nederland	3	3	politiek	nederland ; politiek	politieke partijen ; nederland		
+75612100	klimaatregeling	3	1	klimaatregeling				
+75614987	menstruatie(stoornissen)	3	3	geneeskunde	gynaecologie	menstruatie(stoornissen)		
+75689855	chaostheorie	3	2	wiskunde	chaostheorie			
+75647303	lesgeven	3	1	lesgeven				
+75665514	wonden	3	2	ziekteleer	wonden			
+75618966	politie	3	1	politie				
+163153388	gebruikersinterfaces	3	2	computersystemen	gebruikersinterfaces			
+75687429	indonesië ; economie	3	2	indonesië	indonesië ; economie			
+75630974	groningen (stad)	3	3	nederland	groningen (prov.)	groningen (stad)		
+75606763	geboortenregeling	3	1	geboortenregeling				
+75619881	pijpleidingen	3	3	logistiek	infrastructuur	pijpleidingen		
+75658380	consumentenrecht	3	2	recht	consumentenrecht			
+75658348	concurrentie	3	1	concurrentie				
+75618974	politiek	3	1	politiek				
+318138980	kalimantan	3	2	indonesië	kalimantan			
+75676826	toegepaste chemie	3	2	chemie	toegepaste chemie			
+75607123	geluidsleer	3	2	natuurkunde	geluidsleer			
+75664143	subsidies	3	4	economie	bedrijfseconomie	financieringsleer	subsidies	
+75660040	internationale handel	3	2	handel	internationale handel			
+75610817	jeugdpsychologie	3	4	sociale wetenschappen	psychologie	ontwikkelingspsychologie	jeugdpsychologie	
+07564763x	brandwonden	3	3	ziekteleer	wonden	brandwonden		
+07565735x	bejaarden ; maatschappij	3	2	maatschappij	bejaarden ; maatschappij			
+75658747	economische delicten	3	2	criminaliteit	economische delicten			
+75604957	elektrische energietechniek	3	3	techniek	elektrotechniek	elektrische energietechniek		
+30838153x	burgerschap	3	2	maatschappij	burgerschap			
+75600293	basisonderwijs	3	2	onderwijs	basisonderwijs			
+75660636	publieke sector	3	2	economie	publieke sector			
+75598825	alcoholisme	3	2	verslaving	alcoholisme			
+07561877x	plantenteelt	3	5	economie	agrosector	landbouw	tuinbouw	plantenteelt
+75626691	vulkanisme	3	1	vulkanisme				
+317672576	industriële ecologie	3	2	ecologie	industriële ecologie			
+75653559	eritrea	3	1	eritrea				
+91392314	middellandse zee	3	1	middellandse zee				
+75616521	neurosen	3	3	sociale wetenschappen	psychologie	neurosen		
+317666436	zoönosen	3	3	ziekteleer	infectieziekten	zoönosen		
+75627299	werktuigbouwkunde	3	1	werktuigbouwkunde				
+75598604	adoptie	3	3	recht	jeugdrecht	adoptie		
+75620766	romeins recht	3	2	recht	romeins recht			
+75657007	arbeidsproductiviteit	3	4	economie	sociale economie	arbeidseconomie	arbeidsproductiviteit	
+75669986	duitsland ; geschiedenis	3	2	duitsland	duitsland ; geschiedenis			
+75617048	onderwijssociologie	3	3	sociale wetenschappen	sociologie	onderwijssociologie		
+75622815	stadssamenleving	3	3	samenlevingsvormen	leefgemeenschappen	stadssamenleving		
+07561247x	kostprijsberekening	3	3	economie	bedrijfseconomie	kostprijsberekening		
+75654733	scoliose	3	2	ziekteleer	scoliose			
+75631296	iran	3	1	iran				
+75618052	papierindustrie	3	3	economie	industrie	papierindustrie		
+75601915	bouwkunde	3	1	bouwkunde				
+75661993	ontbossing	3	2	bossen	ontbossing			
+75599228	anticonceptie	3	1	anticonceptie				
+75684896	medisch specialisten	3	2	geneeskundigen	medisch specialisten			
+75615754	morfologie (taalwetenschap)	3	2	taalwetenschap	morfologie (taalwetenschap)			
+75648571	geschiedenis van de geneeskunde	3	2	geschiedenis	geschiedenis van de geneeskunde			
+75617072	onderwijsvernieuwing	3	1	onderwijsvernieuwing				
+75621053	satellietcommunicatie	3	2	communicatie	satellietcommunicatie			
+75636204	burgerlijk recht	3	3	recht	privaatrecht	burgerlijk recht		
+75605694	euthanasie	3	1	euthanasie				
+75611503	keramische technologie	3	2	technologie	keramische technologie			
+75607190	geneeskrachtige kruiden	3	4	farmacie	geneesmiddelen	natuurgeneesmiddelen	geneeskrachtige kruiden	
+321640241	botkanker	3	3	ziekteleer	kanker	botkanker		
+75628392	ziekenhuizen	3	1	ziekenhuizen				
+75686880	syndroom van down	3	3	lichamelijk gehandicapten	aangeboren afwijkingen	syndroom van down		
+07563032x	egypte	3	1	egypte				
+185267408	voetgangers	3	2	verkeer	voetgangers			
+75627256	werkloosheid	3	4	economie	sociale economie	arbeidseconomie	werkloosheid	
+75661241	mest	3	4	economie	agrosector	landbouw	mest	
+331370514	vredesmissies	3	2	krijgsmacht	vredesmissies			
+188301097	syndroom van gilles de la tourette	3	3	geneeskunde	neurologie	syndroom van gilles de la tourette		
+227849205	variantie-analyse	3	3	statistiek	mathematische statistiek	variantie-analyse		
+75623005	sterven	3	1	sterven				
+75610272	integraalrekening	3	2	wiskunde	integraalrekening			
+75653192	aids	3	3	ziekteleer	infectieziekten	aids		
+75660717	landschapsbouw	3	2	natuurbeheer en -ontwikkeling	landschapsbouw			
+14543320x	milieuwetenschappen	3	1	milieuwetenschappen				
+75602776	chemische industrie	3	4	economie	industrie	procesindustrie	chemische industrie	
+75638630	argentinië	3	3	amerika (dubbelcontinent)	zuid-amerika	argentinië		
+75659174	fysische technologie	3	2	technologie	fysische technologie			
+75612984	landbouwonderwijs	3	2	onderwijs	landbouwonderwijs			
+75663953	inspanningsfysiologie	3	2	fysiologie	inspanningsfysiologie			
+75657031	archeologie ; nederland	3	2	archeologie	archeologie ; nederland			
+75650711	boortechnologie	3	2	technologie	boortechnologie			
+75603578	cultuurfilosofie	3	2	filosofie	cultuurfilosofie			
+75688239	migranten ; gezondheidszorg	3	2	migranten@@	migranten ; gezondheidszorg			
+234674717	hagiografie	3	2	levensbeschrijvingen	hagiografie			
+75613271	belastingen	3	1	belastingen				
+297323547	breuken (mechanica)	3	3	natuurkunde	mechanica	breuken (mechanica)		
+22745944x	cytomegalovirus	3	3	virologie	virussen	cytomegalovirus		
+07562110x	schaaldieren	3	4	dieren	ongewervelde dieren	geleedpotige dieren	schaaldieren	
+31767885x	familie(relaties)	3	1	familie(relaties)				
+75614456	macro-economie	3	2	economie	macro-economie			
+75623552	taalstoornissen	3	2	leerstoornissen	taalstoornissen			
+75602571	carrièreplanning	3	2	carrière maken	carrièreplanning			
+75598302	aardewerk	3	1	aardewerk				
+75662167	organisatiepsychologie	3	3	sociale wetenschappen	psychologie	organisatiepsychologie		
+75636794	vervoermiddelen	3	1	vervoermiddelen				
+75607557	getijden	3	2	oceanografie	getijden			
+269707646	kustwerken	3	4	bouwkunde	waterbouwkunde	waterkeringen	kustwerken	
+75660407	kledingindustrie	3	3	economie	industrie	kledingindustrie		
+75645556	antarctica	3	1	antarctica				
+75611325	kapitaalmarkt	3	3	economie	financiële markten	kapitaalmarkt		
+75599678	armoede	3	3	economie	sociale economie	armoede		
+75664992	vliegtestinstrumenten	3	4	techniek	luchtvaarttechniek	vliegtuigbouw	vliegtestinstrumenten	
+75605333	energiebeleid	3	2	energie	energiebeleid			
+07562320x	straffen	3	1	straffen				
+75627590	wiskunde	3	1	wiskunde				
+75665840	dierengeografie	3	3	geografie	biogeografie	dierengeografie		
+75664356	theoretische informatica	3	3	technologie	informatietechnologie	theoretische informatica		
+75636220	programmeren	3	1	programmeren				
+124140912	internet	3	3	communicatiemedia	computernetwerken	internet		
+75599945	automatisering	3	1	automatisering				
+75620405	relativiteitstheorie	3	2	natuurkunde	relativiteitstheorie			
+75605392	epilepsie	3	2	ziekteleer	epilepsie			
+182460185	ziekte van ménière	3	3	ziekteleer	keel-, neus- en oorziekten	ziekte van ménière		
+255335903	konijnen	3	3	dieren	zoogdieren	konijnen		
+12160800x	multimedia	3	2	computertoepassingen	multimedia			
+75676206	veldtheorie	3	2	natuurkunde	veldtheorie			
+75636832	woningbouw	3	1	woningbouw				
+314818669	non-hodgkinlymfoom	3	3	ziekteleer	kanker	non-hodgkinlymfoom		
+75607778	gezondheidsrecht	3	2	recht	gezondheidsrecht			
+75665646	maritieme geschiedenis	3	2	geschiedenis	maritieme geschiedenis			
+75617862	overgangsjaren	3	1	overgangsjaren				
+75690810	productinformatie	3	1	productinformatie				
+75656922	apen	3	3	dieren	zoogdieren	apen		
+75607492	geslachtsziekten	3	3	ziekteleer	infectieziekten	geslachtsziekten		
+75661055	macht	3	1	macht				
+75656701	landbouwgeschiedenis	3	2	geschiedenis	landbouwgeschiedenis			
+75607913	gletsjers	3	1	gletsjers				
+07561149x	kennissociologie	3	3	sociale wetenschappen	sociologie	kennissociologie		
+75636247	rampen	3	1	rampen				
+75640074	maleisië	3	1	maleisië				
+75659913	identiteit	3	3	sociale wetenschappen	psychologie	identiteit		
+165977477	ultraviolette straling	3	2	straling	ultraviolette straling			
+75640430	midden-amerika	3	2	amerika (dubbelcontinent)	midden-amerika			
+75628694	zuivelproducten	3	2	voedingsmiddelen	zuivelproducten			
+07562737x	wetenschappelijk onderzoek	3	1	wetenschappelijk onderzoek				
+07561796x	paddenstoelen	3	4	planten	sporeplanten	schimmels	paddenstoelen	
+75627027	weefselleer ; dierkunde	3	1	weefselleer ; dierkunde				
+75635003	huwelijk	3	2	samenlevingsvormen	huwelijk			
+75602032	brandpreventie	3	1	brandpreventie				
+75609371	horecabedrijf	3	2	bedrijven	horecabedrijf			
+406626618	cateringbedrijf	3	2	bedrijven	cateringbedrijf			
+75613662	leerpsychologie	3	3	sociale wetenschappen	psychologie	leerpsychologie		
+75629984	bolivia	3	3	amerika (dubbelcontinent)	zuid-amerika	bolivia		
+75657643	biogeografie	3	2	geografie	biogeografie			
+75604612	druggebruik	3	2	verslaving	druggebruik			
+07560339x	consumentenaangelegenheden	3	1	consumentenaangelegenheden				
+75636352	italië	3	1	italië				
+75623404	suiker	3	3	voedingsmiddelen	zoetstoffen	suiker		
+230084117	zink	3	3	voedingsleer	mineralen (voeding)	zink		
+75606895	geheugenstoornissen	3	2	ziekteleer	geheugenstoornissen			
+07561216x	klonen	3	4	technologie	biotechnologie	gentechnologie	klonen	
+75624982	uitvoer	3	2	handel	uitvoer			
+75660679	landbouwbeleid ; nederland	3	3	overheidsbeleid	landbouwbeleid	landbouwbeleid ; nederland		
+189090367	scanning	3	2	computertoepassingen	scanning			
+75687658	levensstijlen	3	4	sociale wetenschappen	sociologie	cultuursociologie	levensstijlen	
+75598523	ademhaling	3	1	ademhaling				
+75599015	amfibieën	3	2	dieren	amfibieën			
+75619385	prehistorie	3	2	algemene geschiedenis	prehistorie			
+75632055	leiden	3	3	nederland	zuid-holland	leiden		
+185802362	chinezen	3	4	antropologie	culturele antropologie	etnische groepen ; nederland	chinezen	
+215699319	oost-afrika	3	2	afrika	oost-afrika			
+75665158	vrouwen	3	1	vrouwen				
+75628198	zeeverontreiniging	3	3	milieuverontreiniging	waterverontreiniging	zeeverontreiniging		
+274576406	cultureel erfgoed	3	3	geschiedenis	cultuurgeschiedenis	cultureel erfgoed		
+146950194	beroepsethiek	3	2	ethiek	beroepsethiek			
+75659182	gammastraling	3	3	straling	ioniserende straling	gammastraling		
+75618729	planologie	3	2	ruimtelijke ordening	planologie			
+75616858	octrooirecht	3	4	recht	intellectuele eigendom	industriële eigendom	octrooirecht	
+75621983	sociale ecologie	3	2	ecologie	sociale ecologie			
+75617633	opvoedingsinrichtingen	2	2	inrichtingen	opvoedingsinrichtingen			
+75620863	rubber	2	1	rubber				
+75616572	nieuwe testament	2	2	bijbels	nieuwe testament			
+256181160	contemporaine filosofie (20e en 21e eeuw)	2	2	filosofie	contemporaine filosofie (20e en 21e eeuw)			
+75656965	arbeidsongeschiktheid	2	1	arbeidsongeschiktheid				
+75620790	roofdieren	2	3	dieren	zoogdieren	roofdieren		
+330036203	cultuurparticipatie	2	4	sociale wetenschappen	sociologie	cultuursociologie	cultuurparticipatie	
+75600102	baggerwerken	2	3	economie	industrie	baggerwerken		
+258321415	plantenhormonen	2	3	fysiologie	plantenfysiologie	plantenhormonen		
+75627825	filosofische ethiek	2	2	filosofie	filosofische ethiek			
+75613735	lepra	2	3	ziekteleer	infectieziekten	lepra		
+227487303	grondrechten	2	1	grondrechten				
+273849972	amyotrofische lateraal sclerose	2	2	ziekteleer	amyotrofische lateraal sclerose			
+75685280	gebarentaal	2	2	taalkunde	gebarentaal			
+241392489	schisis	2	3	lichamelijk gehandicapten	aangeboren afwijkingen	schisis		
+86892916	contactlenzen	2	4	technologie	medische technologie	medische instrumenten en apparaten	contactlenzen	
+264577515	ganzen	2	3	dieren	vogels	ganzen		
+242136559	mars (planeet)	2	2	astronomie	mars (planeet)			
+07561832x	patiëntenrecht	2	2	recht	patiëntenrecht			
+239638948	mensenhandel	2	2	handel	mensenhandel			
+75603780	democratie	2	1	democratie				
+75620227	reclamepsychologie	2	3	sociale wetenschappen	psychologie	reclamepsychologie		
+93402112	ruimteonderzoek	2	2	wetenschappelijk onderzoek	ruimteonderzoek			
+75603217	computerprogramma's	2	1	computerprogramma's				
+75621789	slechthorendheid	2	3	ziekteleer	keel-, neus- en oorziekten	slechthorendheid		
+75611953	klassieke filosofie	2	2	filosofie	klassieke filosofie			
+75664208	taalbeheersing	2	1	taalbeheersing				
+75606550	funderingstechniek	2	3	techniek	bouwtechniek	funderingstechniek		
+75672529	ziekte van huntington	2	2	ziekteleer	ziekte van huntington			
+75627922	ijstijden	2	3	natuurwetenschappen	geologie	ijstijden		
+75621258	schilderkunst	2	3	kunst	beeldende kunst	schilderkunst		
+07561040x	interne geneeskunde	2	2	geneeskunde	interne geneeskunde			
+242632106	bedrijfsethiek	2	2	ethiek	bedrijfsethiek			
+75657015	arbeidspsychologie	2	3	sociale wetenschappen	psychologie	arbeidspsychologie		
+75609312	hoogspanningstechniek	2	3	techniek	elektrotechniek	hoogspanningstechniek		
+75614111	logica	2	1	logica				
+75665557	woningbouwverenigingen	2	3	rechtspersonen	verenigingen	woningbouwverenigingen		
+75687550	europees milieubeleid	2	3	overheidsbeleid	milieubeleid	europees milieubeleid		
+75608979	hermeneutiek	2	1	hermeneutiek				
+75601826	borstvoeding	2	3	voeding	babyvoeding	borstvoeding		
+15383580x	posttraumatische dystrofie	2	2	ziekteleer	posttraumatische dystrofie			
+07565704x	argumenteren	2	2	logica	argumenteren			
+75659271	geluidshinder ; verkeer	2	3	milieuverontreiniging	geluidshinder	geluidshinder ; verkeer		
+75608383	groepsdynamica	2	4	sociale wetenschappen	psychologie	sociale psychologie	groepsdynamica	
+75627124	weidevogels	2	3	dieren	vogels	weidevogels		
+75622017	sociale geneeskunde	2	2	geneeskunde	sociale geneeskunde			
+75622971	sterrenkijkers	2	2	optische instrumenten en technieken	sterrenkijkers			
+75658585	dierenrecht	2	2	recht	dierenrecht			
+236266306	jeugdstrafrecht	2	3	recht	strafrecht	jeugdstrafrecht		
+291033512	paleo-ecologie	2	2	paleontologie	paleo-ecologie			
+75623838	telecommunicatietechniek	2	2	techniek	telecommunicatietechniek			
+75601893	bouweconomie	2	2	economie	bouweconomie			
+75663120	projectmanagement	2	2	management	projectmanagement			
+75610485	islam	2	2	godsdienst	islam			
+75612976	landbouwcoöperaties	2	3	ondernemingsvormen	coöperaties	landbouwcoöperaties		
+75607158	gemeentebestuur	2	2	overheidsorganisatie	gemeentebestuur			
+75598280	aardbevingen	2	3	rampen	natuurrampen	aardbevingen		
+75665069	vogelziekten	2	3	geneeskunde	diergeneeskunde	vogelziekten		
+07561605x	mystiek ; religie	2	2	godsdienst	mystiek ; religie			
+07562155x	seksualiteit	2	1	seksualiteit				
+75620820	rooms-katholieke kerk	2	2	kerkgenootschappen	rooms-katholieke kerk			
+75609738	huwelijksrecht	2	3	recht	familierecht	huwelijksrecht		
+75610019	industrie	2	2	economie	industrie			
+256126593	nieuwe filosofie (17e-19e eeuw)	2	2	filosofie	nieuwe filosofie (17e-19e eeuw)			
+75678985	spina bifida	2	3	lichamelijk gehandicapten	aangeboren afwijkingen	spina bifida		
+75635143	communicatie	2	1	communicatie				
+75600013	autotechniek	2	2	techniek	autotechniek			
+148207103	postmodernisme	2	2	filosofische stelsels	postmodernisme			
+75617013	onderwijsbeleid	2	2	overheidsbeleid	onderwijsbeleid			
+75659239	gehandicapten ; onderwijs	2	2	onderwijs	gehandicapten ; onderwijs			
+75601958	bouwnijverheid	2	1	bouwnijverheid				
+291274978	neutronensterren	2	3	astronomie	sterren	neutronensterren		
+07561135x	kartels	2	1	kartels				
+75625717	vermoeidheid	2	1	vermoeidheid				
+75665247	waterkracht	2	2	energie	waterkracht			
+75661691	neuro-anatomie	2	4	biologie	morfologie (biologie)	anatomie	neuro-anatomie	
+75615029	metaalindustrie	2	3	economie	industrie	metaalindustrie		
+75663694	seksualiteit ; jongeren	2	2	seksualiteit	seksualiteit ; jongeren			
+75608715	hardware (computers)	2	2	computers	hardware (computers)			
+75612372	koper	2	2	metalen	koper			
+75603675	dammen (bouwkunde)	2	4	bouwkunde	waterbouwkunde	waterkeringen	dammen (bouwkunde)	
+75637898	aruba	2	1	aruba				
+75613638	leermoeilijkheden	2	1	leermoeilijkheden				
+189870575	voorbereidend middelbaar beroepsonderwijs	2	4	onderwijs	voortgezet onderwijs	algemeen vormend onderwijs	voorbereidend middelbaar beroepsonderwijs	
+264781066	epstein-barr virus	2	3	virologie	virussen	epstein-barr virus		
+75614065	lithograferen	2	4	techniek	grafische techniek	vlakdruk	lithograferen	
+75615983	muziekgeschiedenis	2	2	muziekwetenschap	muziekgeschiedenis			
+07562754x	windenergie	2	2	energie	windenergie			
+315396946	ziekte van crohn	2	3	ziekteleer	darmziekten	ziekte van crohn		
+75626659	vrijetijdsbesteding	2	2	tijd	vrijetijdsbesteding			
+75606860	gehandicaptenzorg	2	1	gehandicaptenzorg				
+07562558x	verkeerstekens	2	1	verkeerstekens				
+75631601	's-hertogenbosch	2	3	nederland	noord-brabant	's-hertogenbosch		
+75626462	volwasseneneducatie	2	3	onderwijs	permanente educatie	volwasseneneducatie		
+75617056	onderwijsstimulering	2	1	onderwijsstimulering				
+75611066	kadaster	2	1	kadaster				
+75628554	zon	2	3	astronomie	sterren	zon		
+75607999	godsdienstsociologie	2	3	sociale wetenschappen	sociologie	godsdienstsociologie		
+07566464x	vectorrekening	2	2	wiskunde	vectorrekening			
+75610248	installatietechniek	2	2	techniek	installatietechniek			
+75621797	slechtziendheid	2	3	ziekteleer	oog(ziekten)	slechtziendheid		
+75628511	zintuigen	2	1	zintuigen				
+75613751	lerarenopleidingen	2	2	beroepsopleidingen	lerarenopleidingen			
+75598450	accountancy	2	1	accountancy				
+75606836	gedragstherapie	2	2	therapieën	gedragstherapie			
+75664801	vertelkunst	2	2	literatuurwetenschap	vertelkunst			
+75614332	lijm	2	1	lijm				
+75604183	dioden	2	3	natuurkunde	halfgeleiders	dioden		
+75601230	bier	2	3	dranken	alcoholische dranken	bier		
+75603713	datacommunicatie	2	2	communicatie	datacommunicatie			
+75627078	weersvoorspelling	2	2	voorspellingen	weersvoorspelling			
+75623013	stervensbegeleiding	2	1	stervensbegeleiding				
+75633485	rotterdam	2	3	nederland	zuid-holland	rotterdam		
+270910557	cognitieve therapie	2	3	therapieën	psychotherapie	cognitieve therapie		
+75669838	patiëntenvoorlichting	2	3	voorlichting	gezondheidsvoorlichting	patiëntenvoorlichting		
+75663937	sportbeoefening	2	2	recreatie	sportbeoefening			
+175796777	benchmarking	2	3	economie	bedrijfseconomie	benchmarking		
+29141270x	visserijbeleid	2	2	overheidsbeleid	visserijbeleid			
+75659212	gehandicapte kinderen	2	2	kinderen	gehandicapte kinderen			
+75599937	auto-industrie	2	3	economie	industrie	auto-industrie		
+75609800	hygiëne	2	1	hygiëne				
+75635178	dieren	2	1	dieren				
+75662183	organische mest	2	5	economie	agrosector	landbouw	mest	organische mest
+75652382	bijen	2	5	dieren	ongewervelde dieren	geleedpotige dieren	insecten	bijen
+275888126	banc d'arguin	2	2	mauritanië	banc d'arguin			
+75616386	nederland ; geschiedenis	2	2	geschiedenis	nederland ; geschiedenis			
+75630796	friesland	2	2	nederland	friesland			
+122442083	kolenvergassing	2	1	kolenvergassing				
+75661462	mossen	2	2	planten	mossen			
+75600706	belastingrecht	2	2	recht	belastingrecht			
+75625350	vennootschapsbelasting	2	2	belastingen	vennootschapsbelasting			
+75661403	moederschap	2	3	familie(relaties)	ouderschap	moederschap		
+75631342	japan	2	1	japan				
+75617005	onderwijs	2	1	onderwijs				
+75662345	psalmen	2	3	bijbels	bijbelboeken	psalmen		
+75598884	alimentatie	2	2	echtscheiding	alimentatie			
+121683281	eetstoornissen	2	2	ziekteleer	eetstoornissen			
+96114746	nucleaire geneeskunde	2	2	geneeskunde	nucleaire geneeskunde			
+188447318	deltagebied	2	2	nederland	deltagebied			
+75661624	nederlandse letterkunde ; 19e eeuw	2	3	letterkunde	nederlandse letterkunde	nederlandse letterkunde ; 19e eeuw		
+75628015	zangvogels	2	3	dieren	vogels	zangvogels		
+75690926	vervoersrecht	2	2	recht	vervoersrecht			
+20281596x	koorts	2	2	ziekteleer	koorts			
+75610094	inflatie	2	4	economie	financiële markten	geldmarkt	inflatie	
+75622327	sparen	2	4	economie	financiële markten	geldmarkt	sparen	
+75621207	scheepvaart	2	2	vervoer	scheepvaart			
+75615487	multiculturele samenleving	2	2	maatschappij	multiculturele samenleving			
+121655849	audiologie	2	1	audiologie				
+75665654	zeewater	2	2	water	zeewater			
+75635704	akkerbouw	2	4	economie	agrosector	landbouw	akkerbouw	
+75658755	economische crises	2	1	economische crises				
+27385576x	outsourcing	2	3	organisatieleer	bedrijfsorganisatie	outsourcing		
+75601680	boerderijen	2	2	bedrijven	boerderijen			
+115595988	pcb's	2	3	milieuverontreiniging	gevaarlijke stoffen	pcb's		
+75658054	celtherapie	2	2	therapieën	celtherapie			
+75627221	werkgelegenheidspolitiek	2	2	politiek	werkgelegenheidspolitiek			
+75668610	java (eiland)	2	2	indonesië	java (eiland)			
+75626233	vluchtelingenvraagstuk	2	1	vluchtelingenvraagstuk				
+75626381	volkshuisvesting	2	2	overheidsbeleid	volkshuisvesting			
+07560597x	feminisme	2	3	emancipatie	vrouwenemancipatie	feminisme		
+75606275	fonetiek	2	2	taalwetenschap	fonetiek			
+75604167	differentiaalrekening	2	2	wiskunde	differentiaalrekening			
+75632713	nederlandse antillen	2	1	nederlandse antillen				
+75665816	zoetstoffen	2	2	voedingsmiddelen	zoetstoffen			
+84479604	lexicologie	2	2	taalwetenschap	lexicologie			
+75613883	lichamelijk gehandicapten	2	1	lichamelijk gehandicapten				
+75662574	overheid ; automatisering	2	2	automatisering	overheid ; automatisering			
+75627493	wildbescherming	2	2	natuurbescherming	wildbescherming			
+75604949	elektrische centrales	2	1	elektrische centrales				
+75618737	plantenanatomie	2	3	biologie	plantkunde	plantenanatomie		
+75625849	vertalen	2	1	vertalen				
+75635534	hardlopen	2	3	sport	atletiek	hardlopen		
+07561331x	bedrijven	2	1	bedrijven				
+75661608	nederlandse dialecten	2	3	taal	dialecten	nederlandse dialecten		
+07563385x	twente	2	3	nederland	overijssel	twente		
+75624494	transseksualiteit	2	2	seksualiteit	transseksualiteit			
+75649446	costa rica	2	1	costa rica				
+75611430	katten	2	5	dieren	zoogdieren	roofdieren	katachtigen	katten
+75659786	honden ; afzonderlijke rassen	2	4	dieren	zoogdieren	honden	honden ; afzonderlijke rassen	
+75607549	getaltheorie	2	2	wiskunde	getaltheorie			
+75657953	thuiszorg	2	3	gezondheidszorg	eerstelijnsgezondheidszorg	thuiszorg		
+356293319	bevolkingsdaling	2	2	demografie	bevolkingsdaling			
+12625849x	noord-nederland	2	2	nederland	noord-nederland			
+75634252	waddenzee	2	1	waddenzee				
+75659379	geothermische energie	2	2	energie	geothermische energie			
+75607395	gereedschappen	2	1	gereedschappen				
+75608669	handschriften	2	1	handschriften				
+75678128	watergebieden	2	1	watergebieden				
+75599961	automatiseringstechniek	2	2	techniek	automatiseringstechniek			
+07565721x	bedrijfsgezondheidszorg	2	2	gezondheidszorg	bedrijfsgezondheidszorg			
+304488429	rechten van het kind	2	2	mensenrechten	rechten van het kind			
+75605856	familierecht	2	2	recht	familierecht			
+75615509	mineralogie	2	1	mineralogie				
+75660512	koopwoningen	2	3	gebouwen	woonhuizen	koopwoningen		
+75661470	muggen	2	5	dieren	ongewervelde dieren	geleedpotige dieren	insecten	muggen
+75665565	wonen	2	1	wonen				
+155586378	usambara	2	2	tanzania	usambara			
+294703136	goederenrecht	2	2	recht	goederenrecht			
+75627604	wisselkoersen	2	5	economie	financiële markten	geldmarkt	valutamarkt	wisselkoersen
+75664399	toegepaste informatica	2	3	technologie	informatietechnologie	toegepaste informatica		
+75685663	gemeentebeleid	2	2	overheidsbeleid	gemeentebeleid			
+75687348	fietsverkeer	2	2	verkeer	fietsverkeer			
+75608200	grafologie	2	1	grafologie				
+75604221	discriminatie	2	1	discriminatie				
+75620847	rouw	2	4	sociale wetenschappen	psychologie	sociale psychologie	rouw	
+07566108x	mannen	2	1	mannen				
+75604191	diplomatie	2	1	diplomatie				
+75662175	organisch afval	2	3	milieuverontreiniging	afvalstoffen	organisch afval		
+80705146	djakarta	2	2	indonesië	djakarta			
+75606607	fysiotherapie	2	2	therapieën	fysiotherapie			
+07566481x	verzamelingenleer	2	2	wiskunde	verzamelingenleer			
+75630931	griekenland	2	1	griekenland				
+75607980	godsdienstpsychologie	2	3	sociale wetenschappen	psychologie	godsdienstpsychologie		
+75627728	woningvraagstuk	2	1	woningvraagstuk				
+75609177	hoefdieren	2	3	dieren	zoogdieren	hoefdieren		
+75640260	groningen (prov.)	2	2	nederland	groningen (prov.)			
+07562673x	voorbereidend wetenschappelijk onderwijs	2	3	onderwijs	voortgezet onderwijs	voorbereidend wetenschappelijk onderwijs		
+334614716	elektrische auto's	2	4	vervoermiddelen	motorvoertuigen	auto's	elektrische auto's	
+236273361	dwarslaesie	2	2	ziekteleer	dwarslaesie			
+29637749x	drugsbeleid	2	2	overheidsbeleid	drugsbeleid			
+75689057	arbitrage	2	2	rechtspraak	arbitrage			
+75607654	geweld	2	1	geweld				
+75624885	tijdrekening	2	1	tijdrekening				
+75615010	metaalbewerking	2	1	metaalbewerking				
+75637871	soedan	2	1	soedan				
+07566139x	moderne devotie	2	2	broederschappen	moderne devotie			
+75611562	kerkgeschiedenis	2	2	geschiedenis	kerkgeschiedenis			
+24241138x	joint ventures	2	2	ondernemingsvormen	joint ventures			
+240518918	rechtseconomie	2	2	recht	rechtseconomie			
+75622084	sociale wetenschappen	2	1	sociale wetenschappen				
+120460165	ouderen ; maatschappij	2	2	maatschappij	ouderen ; maatschappij			
+75613301	ondernemingen	2	1	ondernemingen				
+75661314	mijten	2	4	dieren	ongewervelde dieren	geleedpotige dieren	mijten	
+75608839	hoger beroepsonderwijs	2	3	onderwijs	hoger onderwijs	hoger beroepsonderwijs		
+75614871	medische sociologie	2	3	sociale wetenschappen	sociologie	medische sociologie		
+75604019	dienstplicht	2	1	dienstplicht				
+07562172x	slaapstoornissen	2	2	slapen	slaapstoornissen			
+75616254	natuurgebieden	2	1	natuurgebieden				
+106517139	videofilmtechniek	2	2	filmtechniek	videofilmtechniek			
+75603977	didactiek	2	2	onderwijskunde	didactiek			
+75661950	onderwijsbegeleiding	2	1	onderwijsbegeleiding				
+75635313	taalkunde	2	1	taalkunde				
+75624664	tropische vissen	2	3	dieren	vissen	tropische vissen		
+75664976	vliegtuigconstructies	2	4	techniek	luchtvaarttechniek	vliegtuigbouw	vliegtuigconstructies	
+75661632	nederlandse letterkunde ; 20e eeuw	2	3	letterkunde	nederlandse letterkunde	nederlandse letterkunde ; 20e eeuw		
+75613131	latijnse letterkunde	2	2	letterkunde	latijnse letterkunde			
+75626810	warmteleer	2	2	natuurkunde	warmteleer			
+155926233	atlantische oceaan	2	1	atlantische oceaan				
+75619075	pompen	2	1	pompen				
+75626861	waterbouwkunde	2	2	bouwkunde	waterbouwkunde			
+75658968	europese samenwerking	2	1	europese samenwerking				
+75616114	coniferen	2	3	planten	bomen	coniferen		
+106811037	tsjechië	2	1	tsjechië				
+75687445	publiek-private samenwerking	2	2	bedrijfsleven	publiek-private samenwerking			
+75598272	aandelen	2	5	economie	financiële markten	kapitaalmarkt	effectenwezen	aandelen
+98254073	pragmatiek	2	2	taalwetenschap	pragmatiek			
+75658011	carrière maken	2	1	carrière maken				
+99581760	oekraïne	2	1	oekraïne				
+75609827	hypotheken	2	5	economie	financiële markten	geldmarkt	leningen	hypotheken
+75611376	kartonindustrie	2	3	economie	industrie	kartonindustrie		
+75618850	plattelandsgeografie	2	3	geografie	sociale geografie	plattelandsgeografie		
+235698598	kindersterfte	2	2	demografie	kindersterfte			
+312981651	uiterwaarden	2	1	uiterwaarden				
+75604388	doofheid	2	3	ziekteleer	keel-, neus- en oorziekten	doofheid		
+134808223	lobbyisme	2	2	politiek	lobbyisme			
+75636816	watervoorziening	2	1	watervoorziening				
+75623528	taalachterstand	2	1	taalachterstand				
+75665417	wieren	2	2	planten	wieren			
+07566111x	marokkanen	2	3	antropologie	culturele antropologie	marokkanen		
+75665026	vluchtelingen	2	1	vluchtelingen				
+75624680	tropische vruchten	2	3	voedingsmiddelen	fruit	tropische vruchten		
+75666553	borneo (eiland)	2	1	borneo (eiland)				
+75601850	bosflora	2	2	bossen	bosflora			
+75662655	ozon	2	1	ozon				
+75619822	psychotherapie	2	2	therapieën	psychotherapie			
+11559535x	dioxines	2	3	milieuverontreiniging	gevaarlijke stoffen	dioxines		
+75615398	milieuhygiëne	2	2	hygiëne	milieuhygiëne			
+258125586	pilbara	2	2	australië	pilbara			
+75666863	technologie en samenleving	2	2	maatschappij	technologie en samenleving			
+75687984	expertsystemen	2	3	kunstmatige intelligentie	kennissystemen	expertsystemen		
+75600471	bedrijfssociologie	2	3	sociale wetenschappen	sociologie	bedrijfssociologie		
+75624648	tropen	2	1	tropen				
+75615797	motivatie	2	4	sociale wetenschappen	psychologie	vergelijkende psychologie	motivatie	
+75665492	wiskunde-onderwijs	2	2	onderwijs	wiskunde-onderwijs			
+75610779	jeugdgevangenissen	2	2	gevangeniswezen	jeugdgevangenissen			
+75664038	steenkool	2	3	energie	brandstoffen	steenkool		
+75660431	kleuters	2	2	kinderen	kleuters			
+07563886x	sahel	2	2	afrika	sahel			
+75680890	middellandse zeegebied	2	1	middellandse zeegebied				
+75629550	amsterdam	2	3	nederland	noord-holland	amsterdam		
+75606437	franse letterkunde	2	2	letterkunde	franse letterkunde			
+23525083x	cochabamba	2	4	amerika (dubbelcontinent)	zuid-amerika	bolivia	cochabamba	
+75622335	spastici	2	2	lichamelijk gehandicapten	spastici			
+75635518	gezondheidsleer	2	1	gezondheidsleer				
+258970537	milieuchemie	2	2	chemie	milieuchemie			
+75625253	veengronden	2	1	veengronden				
+75613581	colombia	2	3	amerika (dubbelcontinent)	zuid-amerika	colombia		
+07560101x	bevolkingsstatistiek	2	2	statistiek	bevolkingsstatistiek			
+75613115	lasers	2	1	lasers				
+07565699x	arbeidsmobiliteit	2	2	arbeid	arbeidsmobiliteit			
+75617242	ontwikkelingssamenwerking	2	1	ontwikkelingssamenwerking				
+75665700	17e eeuw	2	3	algemene geschiedenis	nieuwe geschiedenis	17e eeuw		
+75660660	landbouwbeleid ; europa	2	3	overheidsbeleid	landbouwbeleid	landbouwbeleid ; europa		
+163609810	sociotechniek	2	4	sociale wetenschappen	sociologie	organisatiesociologie	sociotechniek	
+75628430	ziektekostenverzekeringen	2	2	verzekeringen	ziektekostenverzekeringen			
+07562785x	ijs (geologie)	2	3	natuurwetenschappen	geologie	ijs (geologie)		
+75610191	inkoop	2	1	inkoop				
+75625628	verkoopkunde	2	4	economie	bedrijfseconomie	marketing	verkoopkunde	
+304295795	water	2	1	water				
+75668785	conserveren	2	1	conserveren				
+75598760	agrarisch recht	2	3	recht	omgevingsrecht	agrarisch recht		
+75629992	chili	2	3	amerika (dubbelcontinent)	zuid-amerika	chili		
+75616335	natuurreservaten	2	1	natuurreservaten				
+75677628	verenigde staten	2	3	amerika (dubbelcontinent)	noord-amerika	verenigde staten		
+75607050	geloofsleven	2	1	geloofsleven				
+75612755	kunstmatige satellieten	2	1	kunstmatige satellieten				
+07561958x	protestantisme	2	3	godsdienst	christendom	protestantisme		
+75618443	pensionering	2	1	pensionering				
+75657155	baby's	2	2	kinderen	baby's			
+75665735	ziekenhuizen ; economie	2	2	economie	ziekenhuizen ; economie			
+75613077	landschapsbescherming	2	2	natuurbescherming	landschapsbescherming			
+75656655	afrikaanse volken	2	3	antropologie	culturele antropologie	afrikaanse volken		
+75661020	lymfvatenstelsel(ziekten)	2	2	ziekteleer	lymfvatenstelsel(ziekten)			
+75627272	werknemers	2	1	werknemers				
+75627442	wettelijke aansprakelijkheid	2	2	aansprakelijkheid	wettelijke aansprakelijkheid			
+75619830	puberteit	2	4	sociale wetenschappen	psychologie	ontwikkelingspsychologie	puberteit	
+75606925	geiten	2	4	dieren	zoogdieren	hoefdieren	geiten	
+117230707	schoolloopbaan	2	1	schoolloopbaan				
+161914527	educatieve software	2	3	technologie	onderwijstechnologie	educatieve software		
+156728281	trauma's (psychologie)	2	3	sociale wetenschappen	psychologie	trauma's (psychologie)		
+136345964	vijvers	2	2	tuinaanleg	vijvers			
+298939150	syndroom van turner	2	3	lichamelijk gehandicapten	aangeboren afwijkingen	syndroom van turner		
+173816533	rechtsinformatica	2	3	technologie	informatietechnologie	rechtsinformatica		
+75624877	tijd	2	1	tijd				
+07562074x	sociobiologie	2	2	biologie	sociobiologie			
+75672561	combinatietheorie	2	2	wiskunde	combinatietheorie			
+75664437	training (sport)	2	1	training (sport)				
+75684640	decentralisatie	2	2	overheidsorganisatie	decentralisatie			
+75660849	levenskunst	2	1	levenskunst				
+75663678	seksualiteit ; mannen	2	2	seksualiteit	seksualiteit ; mannen			
+75677490	vreemdelingenrecht	2	2	recht	vreemdelingenrecht			
+75637987	vrijwilligerswerk	2	2	arbeid	vrijwilligerswerk			
+75610108	informatietheorie	2	1	informatietheorie				
+75626055	visserij	2	3	economie	agrosector	visserij		
+75677504	mondheelkunde	2	2	geneeskunde	mondheelkunde			
+167259032	ambulancehulpverlening	2	2	verpleegkunde	ambulancehulpverlening			
+75615444	militairen	2	2	krijgsmacht	militairen			
+75622033	sociale klassen	2	1	sociale klassen				
+205442609	eutrofiëring	2	1	eutrofiëring				
+75605422	ergonomie	2	1	ergonomie				
+75688883	automatisch vertalen	1	2	vertalen	automatisch vertalen			
+301045054	domotica	1	2	woningbouw	domotica			
+75679779	verzekeringsrecht	1	2	recht	verzekeringsrecht			
+21566180x	prionziekten	1	2	ziekteleer	prionziekten			
+18906515x	cartesianisme	1	2	filosofische stelsels	cartesianisme			
+184818672	aanbestedingsrecht	1	2	recht	aanbestedingsrecht			
+75616742	notariaat	1	1	notariaat				
+75635054	religieuze bouwkunst	1	3	kunst	religieuze kunst	religieuze bouwkunst		
+314850244	auditing	1	1	auditing				
+75612739	kunstmatige inseminatie (mens)	1	2	voortplanting	kunstmatige inseminatie (mens)			
+75625644	verkoudheid	1	3	ziekteleer	keel-, neus- en oorziekten	verkoudheid		
+75625768	verpleegkundigen	1	1	verpleegkundigen				
+75611597	kerkvaders	1	2	patrologie	kerkvaders			
+75606992	geldverkeer	1	2	betalingsverkeer	geldverkeer			
+75625172	vakkenpakketkeuze	1	1	vakkenpakketkeuze				
+75620154	rechtsfilosofie	1	2	filosofie	rechtsfilosofie			
+75664828	verzoening (theologie)	1	2	theologie	verzoening (theologie)			
+75658070	chemisch onderzoek	1	2	wetenschappelijk onderzoek	chemisch onderzoek			
+75611813	kindermishandeling	1	2	geweld	kindermishandeling			
+191500151	decubitus	1	3	ziekteleer	wonden	decubitus		
+291385893	syndroom van sotos	1	3	lichamelijk gehandicapten	aangeboren afwijkingen	syndroom van sotos		
+75606232	flora	1	1	flora				
+75601583	boeddhisme	1	2	godsdienst	boeddhisme			
+75660296	kernreactie	1	1	kernreactie				
+75661586	natuuronderwijs	1	2	onderwijs	natuuronderwijs			
+75625571	verkeersongelukken	1	2	ongevallen	verkeersongelukken			
+75619717	psychiatrische centra	1	2	inrichtingen	psychiatrische centra			
+189892900	intuïtionisme (wiskunde)	1	2	wiskunde	intuïtionisme (wiskunde)			
+75601982	bouwwetgeving	1	2	wet- en regelgeving	bouwwetgeving			
+75611961	klassieke oudheid	1	3	algemene geschiedenis	oude geschiedenis	klassieke oudheid		
+189887990	cryptologie	1	1	cryptologie				
+75659220	gehandicapten ; beleid	1	2	overheidsbeleid	gehandicapten ; beleid			
+75650274	anorexia nervosa	1	3	ziekteleer	eetstoornissen	anorexia nervosa		
+75661446	mondziekten	1	2	ziekteleer	mondziekten			
+75608596	handelswetenschappen	1	1	handelswetenschappen				
+75615630	windmolens	1	1	windmolens				
+75606178	filosofie	1	1	filosofie				
+157073491	geloof en wetenschap	1	1	geloof en wetenschap				
+148619576	whiplash	1	2	ziekteleer	whiplash			
+75620391	rekenstoornissen	1	2	leerstoornissen	rekenstoornissen			
+07561054x	italiaanse letterkunde	1	2	letterkunde	italiaanse letterkunde			
+75658917	erfpacht	1	2	pacht	erfpacht			
+75627698	woninghygiëne	1	2	hygiëne	woninghygiëne			
+07561913x	popmuziek	1	3	kunst	muziek	popmuziek		
+75660334	kinderloosheid	1	1	kinderloosheid				
+75603659	daltononderwijs	1	2	onderwijs	daltononderwijs			
+75668041	sponzen	1	3	dieren	ongewervelde dieren	sponzen		
+75623021	stervensbegeleiding ; medische aspecten	1	2	stervensbegeleiding	stervensbegeleiding ; medische aspecten			
+258322926	ondergronds bouwen	1	3	techniek	bouwtechniek	ondergronds bouwen		
+75618389	pedagogiek	1	2	agologie	pedagogiek			
+75612682	kunstbeleid	1	2	overheidsbeleid	kunstbeleid			
+291382223	syndroom van prader-willi	1	3	lichamelijk gehandicapten	aangeboren afwijkingen	syndroom van prader-willi		
+75607506	gesprekstechniek	1	1	gesprekstechniek				
+75664879	veteranenziekte	1	2	ziekteleer	veteranenziekte			
+75616777	numismatiek	1	1	numismatiek				
+75616432	nederlandse taalkunde	1	2	taalkunde	nederlandse taalkunde			
+291429092	beslag- en executierecht	1	4	recht	procesrecht	burgerlijk procesrecht	beslag- en executierecht	
+07561314x	latijnse taalkunde	1	2	taalkunde	latijnse taalkunde			
+212687778	wavelet theorie	1	3	wiskunde	toegepaste wiskunde	wavelet theorie		
+75611589	kerkrecht	1	2	recht	kerkrecht			
+75605031	elektro-akoestiek	1	4	natuurkunde	geluidsleer	akoestiek	elektro-akoestiek	
+75617188	ontslagrecht	1	2	recht	ontslagrecht			
+75624559	trekvogels	1	3	dieren	vogels	trekvogels		
+184818842	mededingingsrecht	1	2	recht	mededingingsrecht			
+75616130	naamkunde	1	1	naamkunde				
+75627817	filosofische antropologie	1	2	filosofie	filosofische antropologie			
+75620774	romeinse rijk	1	4	algemene geschiedenis	oude geschiedenis	klassieke oudheid	romeinse rijk	
+75619598	protestantse kerken	1	2	kerkgenootschappen	protestantse kerken			
+75659662	grootwinkelbedrijf	1	3	handel	detailhandel	grootwinkelbedrijf		
+75663562	schakeltechniek	1	2	techniek	schakeltechniek			
+75608421	grondwet	1	2	wetten	grondwet			
+75664216	taalonderwijs	1	2	onderwijs	taalonderwijs			
+75660261	kerk en maatschappij	1	2	maatschappij	kerk en maatschappij			
+75620367	rekenkunde	1	2	wiskunde	rekenkunde			
+75616904	ombudsman	1	1	ombudsman				
+75625407	verbrandingsturbines	1	4	werktuigbouwkunde	aandrijftechniek	turbines	verbrandingsturbines	
+75614626	marihuana	1	4	verdovende middelen	drugs	softdrugs	marihuana	
+75607956	godsdienstfilosofie	1	2	filosofie	godsdienstfilosofie			
+75601494	bloembiologie	1	2	biologie	bloembiologie			
+75658534	deegwaren	1	2	kookkunst	deegwaren			
+75664291	techniek ; geschiedenis	1	2	geschiedenis	techniek ; geschiedenis			
+75666960	creooltalen	1	2	letterkunde	creooltalen			
+75663872	spelling	1	3	taalwetenschap	grammatica	spelling		
+75659190	gassen ; natuurkunde	1	2	gassen@@	gassen ; natuurkunde			
+75610167	inkomensbesteding	1	4	economie	sociale economie	arbeidseconomie	inkomensbesteding	
+75679922	amazone (rivier)	1	3	amerika (dubbelcontinent)	zuid-amerika	amazone (rivier)		
+75612992	landbouworganisaties	1	4	economie	agrosector	landbouw	landbouworganisaties	
+75605740	existentialisme	1	2	filosofische stelsels	existentialisme			
+07565993x	individualisering	1	2	sociale veranderingen	individualisering			
+75664585	uranium	1	1	uranium				
+75603055	classificaties	1	1	classificaties				
+75657309	bedrijven ; automatisering	1	2	bedrijven	bedrijven ; automatisering			
+163329117	edi	1	3	communicatie	datacommunicatie	edi		
+75607875	glasvezeltechniek	1	3	techniek	telecommunicatietechniek	glasvezeltechniek		
+75661071	management ; non-profitorganisaties	1	2	management	management ; non-profitorganisaties			
+75615215	micro-economie	1	2	economie	micro-economie			
+75610922	journalistiek	1	1	journalistiek				
+75690411	grafische programma's	1	2	computerprogramma's	grafische programma's			
+75662698	parkeren	1	1	parkeren				
+215863674	india ; economie	1	2	india	india ; economie			
+299111229	socialezekerheidsrecht	1	2	recht	socialezekerheidsrecht			
+75658771	verlofregelingen	1	4	recht	arbeidsrecht	arbeidsovereenkomsten	verlofregelingen	
+75624451	transformatoren	1	1	transformatoren				
+75608081	goud	1	3	metalen	edele metalen	goud		
+75616408	nederland ; sociografie	1	2	sociografie	nederland ; sociografie			
+291372171	publieke opinie	1	1	publieke opinie				
+75664089	strafprocessen	1	1	strafprocessen				
+75657511	bewegingsoefeningen	1	2	gymnastiek	bewegingsoefeningen			
+75623846	telefonie	1	3	communicatie	telecommunicatie	telefonie		
+75664070	stoma's	1	1	stoma's				
+75636123	navigatie	1	1	navigatie				
+75606496	friesland ; geschiedenis	1	3	geschiedenis	nederland ; geschiedenis	friesland ; geschiedenis		
+75620634	revoluties	1	1	revoluties				
+75663031	potplanten	1	2	planten	potplanten			
+75627183	wereldoorlog ii	1	2	oorlogen	wereldoorlog ii			
+75636050	terschelling	1	3	nederland	friesland	terschelling		
+75662191	osmose	1	3	chemie	fysische chemie	osmose		
+75605376	enquêtes	1	2	sociologische onderzoeksmethoden	enquêtes			
+41683826x	elektronische patiëntendossiers	1	4	technologie	informatietechnologie	medische informatica	elektronische patiëntendossiers	
+255802099	genetische algoritmen	1	2	wiskunde	genetische algoritmen			
+75609983	indonesië ; geschiedenis	1	2	geschiedenis	indonesië ; geschiedenis			
+75620960	russische taalkunde	1	2	taalkunde	russische taalkunde			
+240584244	tsjetsjenië	1	2	russische federatie	tsjetsjenië			
+75614154	lood	1	2	metalen	lood			
+75689766	kaukasus	1	1	kaukasus				
+301076766	conflictbemiddeling	1	1	conflictbemiddeling				
+75606097	filmkunst	1	2	kunst	filmkunst			
+75664755	verlamming	1	3	ziekteleer	spierziekten	verlamming		
+162706189	limnologie	1	4	natuurwetenschappen	geologie	hydrologie	limnologie	
+75602229	letterkunde ; overige talen	1	2	letterkunde	letterkunde ; overige talen			
+75647605	mesopotamië	1	2	irak	mesopotamië			
+07560955x	huishoudbudget	1	2	budgettering	huishoudbudget			
+75625679	verlichtingstechniek	1	2	techniek	verlichtingstechniek			
+75619806	psychosomatische geneeskunde	1	2	geneeskunde	psychosomatische geneeskunde			
+75623579	tabak	1	2	genotmiddelen	tabak			
+310706041	koude oorlog	1	3	algemene geschiedenis	nieuwste geschiedenis	koude oorlog		
+75620197	reclame	1	1	reclame				
+75602318	burgerlijk procesrecht	1	3	recht	procesrecht	burgerlijk procesrecht		
+267645848	stortgoed	1	2	materialenkennis	stortgoed			
+207318727	tijdmanagement	1	2	tijd	tijdmanagement			
+07562771x	woningonderhoud	1	2	onderhoud	woningonderhoud			
+75625792	verslaving	1	1	verslaving				
+07563872x	molukken	1	2	melanesië	molukken			
+07560244x	bijenteelt	1	6	dieren	ongewervelde dieren	geleedpotige dieren	insecten	bijen
+75599481	arbeidsbemiddeling	1	2	arbeid	arbeidsbemiddeling			
+75673827	schiphol	1	3	nederland	noord-holland	schiphol		
+75688085	georganiseerde misdaad	1	2	criminaliteit	georganiseerde misdaad			
+75619849	public relations	1	1	public relations				
+75624656	tropische groenten	1	3	voedingsmiddelen	groenten	tropische groenten		
+75683253	rekenonderwijs	1	2	onderwijs	rekenonderwijs			
+75605910	fascisme	1	2	politieke stromingen	fascisme			
+387520082	3d-printen	1	2	computertoepassingen	3d-printen			
+07998746x	intramurale gezondheidszorg	1	2	gezondheidszorg	intramurale gezondheidszorg			
+164139699	elektronische post	1	3	verkeer	postverkeer	elektronische post		
+75606526	friesland ; sociografie	1	3	sociografie	nederland ; sociografie	friesland ; sociografie		
+75636662	oorlogen	1	1	oorlogen				
+75633868	sierra leone	1	1	sierra leone				
+75612615	kruisverenigingen	1	3	rechtspersonen	verenigingen	kruisverenigingen		
+75624842	tunnels	1	1	tunnels				
+121648737	sanskriet	1	3	letterkunde	indiase taal- en letterkunde	sanskriet		
+229721427	interculturele communicatie	1	4	sociale wetenschappen	sociologie	cultuursociologie	interculturele communicatie	
+75599082	anatomie	1	3	biologie	morfologie (biologie)	anatomie		
+75659603	groenvoorzieningen	1	1	groenvoorzieningen				
+239223098	brede scholen	1	2	onderwijs	brede scholen			
+75609622	humanisme	1	2	filosofie	humanisme			
+75665859	zuid-amerikaanse volken	1	3	antropologie	culturele antropologie	zuid-amerikaanse volken		
+75635976	kreta	1	2	griekenland	kreta			
+238895009	oude noorden (rotterdam)	1	4	nederland	zuid-holland	rotterdam	oude noorden (rotterdam)	
+237782820	bamboe	1	2	grassen	bamboe			
+121904644	theaterwetenschap	1	1	theaterwetenschap				
+75611848	jeugdrecht	1	2	recht	jeugdrecht			
+75663805	sociale uitkeringen	1	1	sociale uitkeringen				
+07560647x	friese letterkunde	1	2	letterkunde	friese letterkunde			
+75606461	fresco's	1	4	kunst	beeldende kunst	schilderkunst	fresco's	
+75602814	china ; geschiedenis	1	2	geschiedenis	china ; geschiedenis			
+370912136	pathofysiologie	1	2	fysiologie	pathofysiologie			
+75662418	ezechiël	1	3	bijbels	bijbelboeken	ezechiël		
+207229090	pesten	1	5	sociale wetenschappen	psychologie	sociale psychologie	groepsdynamica	pesten
+75616289	natuurkunde	1	1	natuurkunde				
+189186674	stedelijke economie	1	2	economie	stedelijke economie			
+75620812	rooms-katholicisme	1	3	godsdienst	christendom	rooms-katholicisme		
+75618435	pensioenverzekeringen	1	2	verzekeringen	pensioenverzekeringen			
+07565783x	bouwkunst ; geschiedenis	1	2	geschiedenis	bouwkunst ; geschiedenis			
+75665263	weidebouw	1	4	economie	agrosector	landbouw	weidebouw	
+75608316	griekse taalkunde	1	2	taalkunde	griekse taalkunde			
+75610183	inkomstenbelasting	1	2	belastingen	inkomstenbelasting			
+75635011	autobiografie	1	2	biografie	autobiografie			
+75611023	kabels en leidingen	1	1	kabels en leidingen				
+75600986	bevallingen	1	3	geneeskunde	verloskunde	bevallingen		
+75601397	blaasinstrumenten	1	2	muziekinstrumenten	blaasinstrumenten			
+75660016	integratie (sociologie)	1	3	sociale wetenschappen	sociologie	integratie (sociologie)		
+75675323	meerlingen	1	1	meerlingen				
+07560552x	ethiek	1	1	ethiek				
+75676990	dienstensector	1	2	economie	dienstensector			
+84393939	analoge techniek	1	3	techniek	elektrotechniek	analoge techniek		
+165742380	zuidoost-aziatische taal- en letterkunde	1	2	letterkunde	zuidoost-aziatische taal- en letterkunde			
+375264450	prosodie (taalwetenschap)	1	3	taalwetenschap	fonologie	prosodie (taalwetenschap)		
+75661764	handelingen der apostelen	1	3	bijbels	bijbelboeken	handelingen der apostelen		
+75599341	apocriefen	1	2	bijbels	apocriefen			
+07563676x	luchtverkeer	1	3	logistiek	infrastructuur	luchtverkeer		
+75631970	latijns-amerika	1	2	amerika (dubbelcontinent)	latijns-amerika			
+07561975x	psychologie	1	2	sociale wetenschappen	psychologie			
+75621584	seksuologie	1	1	seksuologie				
+75628260	zelfdoding	1	1	zelfdoding				
+75628066	zeeflora	1	3	flora	waterflora	zeeflora		
+420705503	zuid-australië	1	2	australië	zuid-australië			
+75614634	marine	1	2	krijgsmacht	marine			
+292336152	paleobotanie	1	2	paleontologie	paleobotanie			
+07566478x	verpleegkundige technieken	1	2	verpleegkunde	verpleegkundige technieken			
+75642131	guyana	1	3	amerika (dubbelcontinent)	zuid-amerika	guyana		
+75612747	kunstmatige inseminatie (vee)	1	2	voortplanting	kunstmatige inseminatie (vee)			
+75630052	curaçao	1	1	curaçao				
+75632675	namibië	1	1	namibië				
+323871712	mindfulness	1	4	therapieën	psychotherapie	cognitieve therapie	mindfulness	
+75686457	draagmoederschap	1	4	familie(relaties)	ouderschap	moederschap	draagmoederschap	
+75662817	personeelsbeoordeling	1	2	personeelsbeleid	personeelsbeoordeling			
+75614049	literatuursociologie	1	3	sociale wetenschappen	sociologie	literatuursociologie		
+75604884	effectenwezen	1	4	economie	financiële markten	kapitaalmarkt	effectenwezen	
+230088244	kankerverwekkende stoffen	1	3	ziekteleer	kanker	kankerverwekkende stoffen		
+185918115	verdroging	1	2	waterhuishouding	verdroging			
+264105591	uml	1	4	technologie	informatietechnologie	systeemontwikkeling (informatica)	uml	
+75613468	inlichtingen- en veiligheidsdiensten	1	1	inlichtingen- en veiligheidsdiensten				
+75622114	sociolinguïstiek	1	2	taalwetenschap	sociolinguïstiek			
+75637146	brieven	1	1	brieven				
+75689510	ouderenzorg	1	3	gezondheidszorg	eerstelijnsgezondheidszorg	ouderenzorg		
+142944041	guyane	1	3	amerika (dubbelcontinent)	zuid-amerika	guyane		
+240774655	warmtepompen	1	2	pompen	warmtepompen			
+75636913	oss	1	3	nederland	noord-brabant	oss		
+75667711	himalaya	1	1	himalaya				
+75657651	biologie-onderwijs	1	2	onderwijs	biologie-onderwijs			
+07565833x	computerspelen	1	2	spelen	computerspelen			
+38902970x	tibetaans plateau	1	1	tibetaans plateau				
+07563418x	suriname	1	3	amerika (dubbelcontinent)	zuid-amerika	suriname		
+75603853	detailhandel	1	2	handel	detailhandel			
+75613867	lichaamstaal	1	2	taal	lichaamstaal			
+75664224	tandaandoeningen	1	2	ziekteleer	tandaandoeningen			
+237938758	presentatie	1	2	communicatie	presentatie			
+87623099	oost-europa ; economie	1	2	oost-europa	oost-europa ; economie			
+216265444	beroepsaansprakelijkheid	1	2	aansprakelijkheid	beroepsaansprakelijkheid			
+75603497	creativiteit	1	1	creativiteit				
+75672189	caribisch gebied	1	2	amerika (dubbelcontinent)	caribisch gebied			
+264573919	indianentalen	1	2	taalkunde	indianentalen			
+153258764	oostvaardersplassen	1	3	nederland	flevoland	oostvaardersplassen		
+186033907	andhra pradesh	1	2	india	andhra pradesh			
+75660245	kerkelijke ambten	1	1	kerkelijke ambten				
+75615290	middeleeuwen	1	2	algemene geschiedenis	middeleeuwen			
+09787177x	edp-auditing	1	2	auditing	edp-auditing			
+75633280	polen	1	1	polen				
+75626977	watervogels	1	3	dieren	vogels	watervogels		
+363409645	ioniserende straling	1	2	straling	ioniserende straling			
+07560888x	heiligen	1	1	heiligen				
+75640902	ely	1	3	verenigd koninkrijk	groot-brittannië	ely		
+75606542	functieleer (psychologie)	1	3	sociale wetenschappen	psychologie	functieleer (psychologie)		
+75633175	pakistan	1	1	pakistan				
+75665255	waterleiding	1	1	waterleiding				
+371228476	behaviorisme	1	2	sociale wetenschappen	behaviorisme			
+357380347	sportpsychologie	1	3	sociale wetenschappen	psychologie	sportpsychologie		
+308006887	sportsociologie	1	3	sociale wetenschappen	sociologie	sportsociologie		
+154134341	seksuele intimidatie	1	1	seksuele intimidatie				
+75628201	zeevogels	1	3	dieren	vogels	zeevogels		
+75603225	computers	1	1	computers				
+149159765	fytotherapie	1	2	therapieën	fytotherapie			
+187570019	psoriasis	1	3	ziekteleer	huidziekten	psoriasis		
+75614405	maatschappij	1	1	maatschappij				
+91429226	somalië	1	2	afrika	somalië			
+189860413	elektro-encefalografie	1	3	geneeskunde	diagnostiek	elektro-encefalografie		
+236400959	lasertherapie	1	2	therapieën	lasertherapie			
+75620049	radiozendontvangers	1	1	radiozendontvangers				
+75664631	vaste-stofchemie	1	2	chemie	vaste-stofchemie			
+75663368	religieuze bewegingen	1	2	godsdienst	religieuze bewegingen			
+75660806	leesonderwijs	1	2	lezen	leesonderwijs			
+75604752	dijken	1	4	bouwkunde	waterbouwkunde	waterkeringen	dijken	
+85992798	vrouwenhandel	1	3	handel	mensenhandel	vrouwenhandel		
+75636557	vaartuigen	1	2	vervoermiddelen	vaartuigen			
+75615711	moorden	1	2	criminaliteit	moorden			
+75621185	scheepsinstallaties	1	3	techniek	installatietechniek	scheepsinstallaties		
+75661195	medezeggenschap ; bedrijven	1	2	medezeggenschap	medezeggenschap ; bedrijven			
+75664534	turkse taal- en letterkunde	1	2	letterkunde	turkse taal- en letterkunde			
+75634023	spanje	1	1	spanje				
+227509889	integraalvergelijkingen	1	2	wiskunde	integraalvergelijkingen			
+75609568	huishoudelijke apparaten	1	1	huishoudelijke apparaten				
+75610302	interieurkunst	1	2	kunst	interieurkunst			
+75603594	cultuurpsychologie	1	3	sociale wetenschappen	psychologie	cultuurpsychologie		
+75603128	communicatiemedia	1	1	communicatiemedia				
+231028326	waterkeringen	1	3	bouwkunde	waterbouwkunde	waterkeringen		
+75639351	cuba	1	1	cuba				
+75665794	ziektewet	1	3	recht	socialezekerheidsrecht	ziektewet		
+07566030x	kernsplitsing	1	1	kernsplitsing				
+75620103	rassenvraagstuk	1	3	antropologie	culturele antropologie	rassenvraagstuk		
+295880872	india ; geschiedenis	1	2	geschiedenis	india ; geschiedenis			
+75633418	roemenië	1	1	roemenië				
+75626330	internationaal publiek recht	1	3	recht	internationaal recht	internationaal publiek recht		
+75677806	peking	1	2	china	peking			
+07560065x	bejaardenzorg	1	3	gezondheidszorg	eerstelijnsgezondheidszorg	bejaardenzorg		
+191041750	buenos aires	1	4	amerika (dubbelcontinent)	zuid-amerika	argentinië	buenos aires	
+75618702	planeten	1	2	astronomie	planeten			
+75599058	analytische meetkunde	1	3	wiskunde	meetkunde	analytische meetkunde		
+75624044	terrorisme	1	2	geweld	terrorisme			
+75615703	monumentenzorg	1	1	monumentenzorg				
+75621126	schadelijke insecten	1	5	dieren	ongewervelde dieren	geleedpotige dieren	insecten	schadelijke insecten
+75626888	waterplanten	1	2	planten	waterplanten			
+07566559x	woonlasten	1	1	woonlasten				
+75628406	ziekenverpleging	1	2	verpleegkunde	ziekenverpleging			
+75612828	kunstverzamelen	1	5	tijd	vrijetijdsbesteding	hobby's	verzamelen	kunstverzamelen
+75623803	tekenkunst	1	3	kunst	beeldende kunst	tekenkunst		
+07560390x	dialectologie	1	2	taalwetenschap	dialectologie			
+236307525	fotogrammetrie	1	2	remote sensing	fotogrammetrie			
+75628163	zeerecht	1	2	recht	zeerecht			
+244173850	meertaligheid	1	2	taal	meertaligheid			
+75614057	literatuurwetenschap	1	1	literatuurwetenschap				
+75614022	literatuurgeschiedenis	1	1	literatuurgeschiedenis				
+75666847	ruimterecht	1	2	recht	ruimterecht			
+75616351	natuurwetenschappen	1	1	natuurwetenschappen				
+07561376x	letterkunde	1	1	letterkunde				
+75602768	chemisch reinigen	1	2	huishouden	chemisch reinigen			
+75625814	verspanende metaalbewerking	1	2	metaalbewerking	verspanende metaalbewerking			
+75627507	wilde dieren	1	2	dieren	wilde dieren			
+75617374	oosterse kerken	1	2	kerkgenootschappen	oosterse kerken			
+75627957	ijzersmeedkunst	1	3	kunst	smeedkunst	ijzersmeedkunst		
+75616793	obligaties	1	5	economie	financiële markten	kapitaalmarkt	effectenwezen	obligaties
+75681927	onteigening	1	1	onteigening				
+75602202	speciaal onderwijs	1	2	onderwijs	speciaal onderwijs			
+75622106	sociografie	1	1	sociografie				
+07566335x	relatievormen	1	1	relatievormen				
+75615002	merkenrecht	1	4	recht	intellectuele eigendom	industriële eigendom	merkenrecht	
+75619814	psychosomatische ziekten	1	2	ziekteleer	psychosomatische ziekten			
+75610337	internationaal privaatrecht	1	3	recht	privaatrecht	internationaal privaatrecht		
+75600935	betalingsverkeer	1	1	betalingsverkeer				
+75663651	schrijven	1	1	schrijven				
+75608391	groepstherapie	1	2	therapieën	groepstherapie			
+75604833	economische prognoses	1	2	voorspellingen	economische prognoses			
+75664127	studiebegeleiding	1	2	studeren	studiebegeleiding			
+75623102	stoïcisme	1	2	filosofische stelsels	stoïcisme			
+75624176	theologie	1	1	theologie				
+154083402	gips	1	1	gips				
+75660768	leermethoden	1	1	leermethoden				
+173414834	mechatronica	1	3	technologie	mechanische technologie	mechatronica		
+75675064	indiase taal- en letterkunde	1	2	letterkunde	indiase taal- en letterkunde			
+75617366	oosterse godsdiensten	1	2	godsdienst	oosterse godsdiensten			
+75603748	defensiepolitiek	1	2	politiek	defensiepolitiek			
+75658704	economisch recht	1	2	recht	economisch recht			
+75603624	cybernetica	1	1	cybernetica				
+75609118	historische geografie	1	2	geografie	historische geografie			
+149699050	centraal-azië	1	1	centraal-azië				
+75636700	telecommunicatie	1	2	communicatie	telecommunicatie			
+75625148	vakanties	1	1	vakanties				
+75604566	drenthe ; sociografie	1	3	sociografie	nederland ; sociografie	drenthe ; sociografie		
+75602326	burgerlijk wetboek	1	2	wetten	burgerlijk wetboek			
+75599651	archieven	1	1	archieven				
+75652927	massamedia	1	2	communicatiemedia	massamedia			
+75612712	kunsthandel	1	2	handel	kunsthandel			
+75662701	partners	1	2	relatievormen	partners			
+191527335	hindi	1	3	letterkunde	indiase taal- en letterkunde	hindi		
+75628031	zeeën	1	1	zeeën				
+75606933	gelaatkunde	1	1	gelaatkunde				
+07560843x	groningen (prov.) ; geschiedenis	1	3	geschiedenis	nederland ; geschiedenis	groningen (prov.) ; geschiedenis		
+75604795	econometrie	1	2	economie	econometrie			
+24398958x	kwelders	1	2	watergebieden	kwelders			
+75659328	gemeentefinanciën	1	4	politiek	economische politiek	openbare financiën	gemeentefinanciën	
+75599473	arbeidsanalyse	1	2	arbeid	arbeidsanalyse			
+331358077	zwarte gaten	1	2	astronomie	zwarte gaten			
+75613387	afspeelapparatuur	1	2	geluidsapparatuur	afspeelapparatuur			
+291332498	speekselklier(ziekten)	1	3	ziekteleer	klierziekten	speekselklier(ziekten)		
+75690802	klierziekten	1	2	ziekteleer	klierziekten			
+75620081	raketmotoren	1	4	werktuigbouwkunde	aandrijftechniek	motoren	raketmotoren	
+75660830	leningen	1	4	economie	financiële markten	geldmarkt	leningen	
+324175795	mashonaland	1	2	rhodesië	mashonaland			
+204442451	zambesi (rivier)	1	2	zuidelijk afrika	zambesi (rivier)			
+217257666	iraanse taal- en letterkunde	1	2	letterkunde	iraanse taal- en letterkunde			
+75663295	reflexzonetherapie	1	2	therapieën	reflexzonetherapie			
+188277978	schuldhulpverlening	1	2	hulpverlening	schuldhulpverlening			
+75684357	telematica	1	3	technologie	informatietechnologie	telematica		
+07560969x	huurwetgeving	1	2	wet- en regelgeving	huurwetgeving			
+75608928	helikopters	1	3	vervoermiddelen	vliegtuigen	helikopters		
+75665921	zwakstroom-techniek	1	3	techniek	elektrotechniek	zwakstroom-techniek		
+75628252	zelfbeschikkingsrecht	1	2	recht	zelfbeschikkingsrecht			
+07561510x	meteorieten	1	2	astronomie	meteorieten			
+75612305	koloniale geschiedenis ; buitenland	1	2	geschiedenis	koloniale geschiedenis ; buitenland			
+75618540	persvrijheid	1	3	grondrechten	vrijheid van meningsuiting	persvrijheid		
+75651181	singapore	1	1	singapore				
+75610981	kaas	1	3	voedingsmiddelen	zuivelproducten	kaas		
+75659255	geld	1	1	geld				
+75650576	glasgow	1	3	verenigd koninkrijk	groot-brittannië	glasgow		
+75627795	wijn	1	3	dranken	alcoholische dranken	wijn		
+75623382	studievoorlichting	1	2	voorlichting	studievoorlichting			
+75657384	bejaardenverpleging	1	2	verpleegkunde	bejaardenverpleging			
+75663856	sociologische onderzoeksmethoden	1	1	sociologische onderzoeksmethoden				
+75624230	tin	1	2	metalen	tin			
+75603292	conditietraining	1	1	conditietraining				
+39092833x	synthetische biologie	1	3	technologie	biotechnologie	synthetische biologie		
+75608855	heideflora	1	2	flora	heideflora			
+75660601	kunstenaars	1	1	kunstenaars				
+75607107	geluidshinder	1	2	milieuverontreiniging	geluidshinder			
+28240631x	la réunion	1	1	la réunion				
+75661349	milieuwetten	1	2	wetten	milieuwetten			
+75609029	hersenanatomie	1	4	biologie	morfologie (biologie)	anatomie	hersenanatomie	
+75609614	hulpverlening	1	1	hulpverlening				
+75613840	lexicografie	1	2	taalwetenschap	lexicografie			
+75604841	economische stelsels	1	1	economische stelsels				
+75665689	zelfkennis	1	4	sociale wetenschappen	psychologie	persoonlijkheidsleer	zelfkennis	
+75601060	bewustzijnspsychologie	1	3	sociale wetenschappen	psychologie	bewustzijnspsychologie		
+344762122	caribisch nederland	1	1	caribisch nederland				
+75660865	lezen	1	1	lezen				
+75660911	literatuuronderwijs	1	2	onderwijs	literatuuronderwijs			
+75658143	christendom en islam	1	1	christendom en islam				
+75663341	relatieproblemen	1	1	relatieproblemen				
+75689537	ouderenhuisvesting	1	3	overheidsbeleid	volkshuisvesting	ouderenhuisvesting		
+75627175	wereldoorlog i	1	2	oorlogen	wereldoorlog i			
+75680106	muziekpsychologie	1	3	sociale wetenschappen	psychologie	muziekpsychologie		
+75616017	muziekonderwijs	1	2	onderwijs	muziekonderwijs			
+75605724	exacte wetenschappen	1	1	exacte wetenschappen				
+75598817	alcoholische dranken	1	2	dranken	alcoholische dranken			
+75614391	maatschappelijke gezondheidszorg	1	2	gezondheidszorg	maatschappelijke gezondheidszorg			
+07562561x	verkiezingen	1	1	verkiezingen				
+75665018	vluchtcontrole	1	3	techniek	luchtvaarttechniek	vluchtcontrole		
+75601346	biologie	1	1	biologie				
+75658615	differentiatie (onderwijs)	1	2	onderwijs	differentiatie (onderwijs)			
+07562804x	zeefauna	1	3	fauna	waterfauna	zeefauna		
+157024660	arctica	1	1	arctica				
+07563919x	sicilië	1	2	italië	sicilië			
+75617935	paardensport	1	2	sport	paardensport			
+75603802	denken	1	4	sociale wetenschappen	psychologie	functieleer (psychologie)	denken	
+75613689	leesstoornissen	1	2	leerstoornissen	leesstoornissen			
+75626578	vrachtauto's	1	4	vervoermiddelen	motorvoertuigen	auto's	vrachtauto's	
+75657252	bedrijfsomzet	1	3	economie	bedrijfseconomie	bedrijfsomzet		
+75606305	fossielen	1	2	paleontologie	fossielen			
+75634805	zweden	1	1	zweden				
+89431251	zwarte zee	1	1	zwarte zee				
+75598981	ambtenaren	1	2	werknemers	ambtenaren			
+75639009	gambia	1	1	gambia				
+75628686	zuigelingenzorg	1	2	gezondheidszorg	zuigelingenzorg			
+75673290	toegepaste taalwetenschap	1	2	taalwetenschap	toegepaste taalwetenschap			
+75658763	economische orde	1	1	economische orde				
+75650932	couveusekinderen	1	3	kinderen	baby's	couveusekinderen		
+75616645	nonnen	1	1	nonnen				
+75661276	middelnederlandse letterkunde	1	3	letterkunde	nederlandse letterkunde	middelnederlandse letterkunde		
+75621835	sluizen	1	4	bouwkunde	waterbouwkunde	waterkeringen	sluizen	
+75659891	hydrostatica	1	3	vloeistoffen	vloeistoffen ; mechanica	hydrostatica		
+75598329	aardgas	1	3	energie	brandstoffen	aardgas		
+162989733	asbest	1	2	mineralen	asbest			
+141964790	telewerken	1	3	arbeid	thuiswerk	telewerken		
+75659840	huishoudelijke arbeid	1	2	arbeid	huishoudelijke arbeid			
+75607670	gewervelde dieren	1	2	dieren	gewervelde dieren			
+75663775	sociale economie	1	2	economie	sociale economie			
+75626918	waterschappen	1	2	overheidsorganisatie	waterschappen			
+75631792	hongarije	1	1	hongarije				
+320582841	finse golf	1	1	finse golf				
+203946847	archangelsk	1	2	russische federatie	archangelsk			
+75663783	sociale geschiedenis	1	2	geschiedenis	sociale geschiedenis			
+75658992	examens	1	1	examens				
+75615088	metallurgie	1	1	metallurgie				
+75660881	liefde	1	4	sociale wetenschappen	psychologie	sociale psychologie	liefde	
+75615061	metafysica	1	2	filosofie	metafysica			
+75657058	aristotelische filosofie	1	2	filosofie	aristotelische filosofie			
+75665778	ziekenhuisopname	1	1	ziekenhuisopname				
+75680092	humaniora	1	1	humaniora				
+75656647	afrikaanse taal- en letterkunde	1	2	letterkunde	afrikaanse taal- en letterkunde			
+75633299	portugal	1	1	portugal				
+75606186	financiële rekenkunde	1	4	wiskunde	rekenkunde	handelsrekenen	financiële rekenkunde	
+75622041	sociale pedagogiek	1	3	agologie	pedagogiek	sociale pedagogiek		
+75610043	industriepolitiek	1	2	politiek	industriepolitiek			
+75630591	europa	1	1	europa				
+75607328	geografie	1	1	geografie				
+176920315	economische ethiek	1	2	ethiek	economische ethiek			
+252074610	institutionele economie	1	2	economie	institutionele economie			
+75609290	hoofdpijn	1	2	pijn(bestrijding)	hoofdpijn			
+75659425	gewasbemesting	1	5	economie	agrosector	landbouw	mest	gewasbemesting
+75669277	milt(ziekten)	1	2	ziekteleer	milt(ziekten)			
+375909990	amazonegebied	1	3	amerika (dubbelcontinent)	zuid-amerika	amazonegebied		
+123965756	hamburg	1	2	duitsland	hamburg			
+75602830	china ; sociografie	1	2	china	china ; sociografie			
+75662833	petrologie	1	3	natuurwetenschappen	geologie	petrologie		
+75642646	libië	1	1	libië				
+75642034	rijn	1	1	rijn				
+241621194	löss plateau (china)	1	2	china	löss plateau (china)			
+75632209	limburg	1	2	nederland	limburg			
+07563242x	marokko	1	1	marokko				
+75682656	oplosmiddelen	1	3	milieuverontreiniging	gevaarlijke stoffen	oplosmiddelen		
+244676445	europees energiebeleid	1	3	energie	energiebeleid	europees energiebeleid		
+75666537	klinische chemie	1	3	chemie	toegepaste chemie	klinische chemie		
+75618486	personeelsselectie	1	2	personeelsbeleid	personeelsselectie			
+07560535x	engelse letterkunde	1	2	letterkunde	engelse letterkunde			
+75662663	paleografie	1	1	paleografie				
+75622769	gemeentehuizen	1	2	gebouwen	gemeentehuizen			
+75657481	bevruchtingstechnieken	1	1	bevruchtingstechnieken				
+181076497	optiebewijzen	1	5	economie	financiële markten	kapitaalmarkt	effectenwezen	optiebewijzen
+75622416	speelleervormen	1	1	speelleervormen				
+203478541	computerspel	1	1	computerspel				
+75618192	parkeervraagstuk	1	2	verkeer	parkeervraagstuk			
+07566206x	opname apparatuur	1	2	geluidsapparatuur	opname apparatuur			
+238358194	dvd's	1	3	geluidsapparatuur	afspeelapparatuur	dvd's		
+187568057	juda	1	2	westelijke jordaanoever	juda			
+75662256	jozua	1	3	bijbels	bijbelboeken	jozua		
+75686783	muziekwetenschap	1	1	muziekwetenschap				
+75641127	venezuela	1	3	amerika (dubbelcontinent)	zuid-amerika	venezuela		
+75660792	leesbevordering	1	2	lezen	leesbevordering			
+75613824	levensverzekeringen	1	2	verzekeringen	levensverzekeringen			
+339448792	kwazulu-natal	1	2	zuid-afrika	kwazulu-natal			
+75639998	drenthe	1	2	nederland	drenthe			
+344003973	altaj (gebergte)	1	3	russische federatie	siberië	altaj (gebergte)		
+229900682	kinkhoest	1	3	ziekteleer	kinderziekten	kinkhoest		
+75621770	slavische taalkunde	1	2	taalkunde	slavische taalkunde			
+75660415	kleinvee	1	1	kleinvee				
+07560518x	elite	1	2	sociale klassen	elite			
+07560714x	gelijkstroomtechniek	1	3	techniek	elektrotechniek	gelijkstroomtechniek		
+75610566	isolatiemateriaal	1	1	isolatiemateriaal				
+75661284	middelnederlandse taalkunde	1	3	taalkunde	nederlandse taalkunde	middelnederlandse taalkunde		
+75665530	wolken	1	2	meteorologie	wolken			
+07560468x	duitse taalkunde	1	2	taalkunde	duitse taalkunde			
+75659387	germaanse taalkunde	1	2	taalkunde	germaanse taalkunde			
+75605996	fenomenologie	1	1	fenomenologie				
+75661977	onderwijsstatistiek	1	2	statistiek	onderwijsstatistiek			
+75666820	psychologie ; opleiding	1	3	sociale wetenschappen	psychologie	psychologie ; opleiding		
+252057910	zuidelijk afrika	1	1	zuidelijk afrika				
+75600382	bedrijfseconomie	1	2	economie	bedrijfseconomie			
+75610396	internationale politiek	1	2	politiek	internationale politiek			
+75639122	nigeria	1	1	nigeria				
+75677202	niger (land)	1	1	niger (land)				
+75620871	rubberindustrie	1	3	economie	industrie	rubberindustrie		
+237717840	midden-brabant	1	3	nederland	noord-brabant	midden-brabant		
+216614104	utrechtse heuvelrug	1	3	nederland	utrecht (prov.)	utrechtse heuvelrug		
+75634481	zambia	1	1	zambia				
+75614367	maaltijden	1	2	kookkunst	maaltijden			
+75686449	politieke antropologie	1	2	antropologie	politieke antropologie			
+75646870	honduras	1	1	honduras				
+75636239	psychotechniek	1	3	sociale wetenschappen	psychologie	psychotechniek		
+75660032	intercultureel onderwijs	1	2	onderwijs	intercultureel onderwijs			
+75607972	godsdienstonderwijs	1	2	onderwijs	godsdienstonderwijs			
+75660970	luchtbehandeling ; gebouwen	1	2	gebouwen	luchtbehandeling ; gebouwen			
+75598736	agglomeraties	1	1	agglomeraties				
+75609096	hindoeïsme	1	2	godsdienst	hindoeïsme			
+75657872	branden	1	1	branden				
+75609258	honden	1	3	dieren	zoogdieren	honden		
+75688417	islamabad	1	2	pakistan	islamabad			
+75602490	cacao	1	2	voedingsmiddelen	cacao			
+75660628	kunstmest	1	5	economie	agrosector	landbouw	mest	kunstmest
+75605503	esthetiek	1	2	filosofie	esthetiek			
+75628309	zending	1	1	zending				
+75611570	kerkleer	1	1	kerkleer				
+75662779	pastorale theologie	1	2	theologie	pastorale theologie			
+113818661	mekong	1	1	mekong				
+75626292	voetbal	1	3	spelen	balspelen	voetbal		
+75624001	tennis	1	3	spelen	balspelen	tennis		
+75601427	blindheid	1	3	ziekteleer	oog(ziekten)	blindheid		
+07562852x	zintuiglijk gehandicapten	1	2	lichamelijk gehandicapten	zintuiglijk gehandicapten			
+75635364	voorspellingen	1	1	voorspellingen				
+07560356x	cultuurbeleid	1	2	overheidsbeleid	cultuurbeleid			
+75627574	winstdeling	1	1	winstdeling				
+75626195	vliegtuigbouw	1	3	techniek	luchtvaarttechniek	vliegtuigbouw		
+26342717x	swifterbant	1	3	nederland	flevoland	swifterbant		
+374541272	groenten	1	2	voedingsmiddelen	groenten			
+75608812	havenwerken	1	1	havenwerken				
+75605244	emigratie	1	2	migratie	emigratie			
+07561779x	ouderparticipatie	1	2	onderwijs	ouderparticipatie			
+75648520	schoolverlaters	1	1	schoolverlaters				
+07568523x	nederland ; politiek	1	2	politiek	nederland ; politiek			
+75658623	drainage	1	2	waterhuishouding	drainage			
+75617315	oorlogsslachtoffers	1	1	oorlogsslachtoffers				
+303892145	uruzgan	1	2	afghanistan	uruzgan			
+75620952	russische letterkunde	1	2	letterkunde	russische letterkunde			
+75664542	20e eeuw	1	3	algemene geschiedenis	nieuwste geschiedenis	20e eeuw		
+75599953	informatiemaatschappij	1	2	maatschappij	informatiemaatschappij			
+239384881	burn-out	1	1	burn-out				
+75632594	mozambique	1	1	mozambique				
+75665638	zand	1	1	zand				
+07560664x	galziekten	1	2	ziekteleer	galziekten			
+29148185x	evenementen	1	1	evenementen				
+93167245	mecklenburg-vorpommern	1	2	duitsland	mecklenburg-vorpommern			
+213804611	landbouwgronden ; verzilting	1	2	landbouwgronden	landbouwgronden ; verzilting			
+75679566	onderhoud	1	1	onderhoud				
+75664518	turbines	1	3	werktuigbouwkunde	aandrijftechniek	turbines		
+75665220	warmte-krachtkoppeling	1	1	warmte-krachtkoppeling				
+75626322	volièrevogels	1	3	dieren	vogels	volièrevogels		
+75612690	kunstfilosofie	1	2	filosofie	kunstfilosofie			
+257370374	rationalisme	1	2	filosofische stelsels	rationalisme			
+75612844	kunstzinnige vorming	1	1	kunstzinnige vorming				
+75660083	jaargetijden	1	1	jaargetijden				
+75637332	goes	1	3	nederland	zeeland (prov.)	goes		
+75665360	werkgelegenheid	1	4	economie	sociale economie	arbeidseconomie	werkgelegenheid	
+75614189	loofbomen	1	3	planten	bomen	loofbomen		
+380468085	hagedissen	1	3	dieren	reptielen	hagedissen		
+75599899	audiovisuele media	1	3	communicatiemedia	massamedia	audiovisuele media		
+75628465	zigeuners	1	1	zigeuners				
+75605775	experimentele chemie	1	2	chemie	experimentele chemie			
+75611635	kernenergie	1	2	energie	kernenergie			
+185674704	islamitisch recht	1	2	recht	islamitisch recht			
+23524712x	echtscheidingsrecht	1	4	recht	familierecht	huwelijksrecht	echtscheidingsrecht	
+07562138x	schoolgebouwen	1	2	gebouwen	schoolgebouwen			
+75605406	erfelijkheid	1	1	erfelijkheid				
+07562687x	waterfauna	1	2	fauna	waterfauna			
+75658593	dierpsychologie	1	3	sociale wetenschappen	psychologie	dierpsychologie		
+75624079	textielindustrie	1	3	economie	industrie	textielindustrie		
+75664712	verhuizen	1	1	verhuizen				
+375516816	artroscopie	1	4	geneeskunde	diagnostiek	endoscopie	artroscopie	
+75660903	literaire tijdschriften	1	2	tijdschriften	literaire tijdschriften			
+75684012	avant-garde	1	2	kunststromingen	avant-garde			
+190396571	procesalgebra	1	4	technologie	informatietechnologie	theoretische informatica	procesalgebra	
+303392924	voor- en vroegschoolse educatie	1	2	onderwijs	voor- en vroegschoolse educatie			
+75600439	bedrijfsleven	1	1	bedrijfsleven				
+235245984	metrologie	1	1	metrologie				
+75604361	dood	1	1	dood				
+75621738	slapen	1	1	slapen				
+75614723	massapsychologie	1	4	sociale wetenschappen	psychologie	sociale psychologie	massapsychologie	
+75616319	natuurrampen	1	2	rampen	natuurrampen			
+75686325	vrouwenhulpverlening	1	2	hulpverlening	vrouwenhulpverlening			
+274582899	houtconstructies	1	3	techniek	bouwtechniek	houtconstructies		
+189671599	eczeem	1	3	ziekteleer	huidziekten	eczeem		
+75624974	uitvindingen	1	1	uitvindingen				
+75617064	onderwijstechnologie	1	2	technologie	onderwijstechnologie			
+75690047	scheikunde-onderwijs	1	2	onderwijs	scheikunde-onderwijs			
+75635569	hoger onderwijs	1	2	onderwijs	hoger onderwijs			
+07560759x	gevechtsvliegtuigen	1	3	vervoermiddelen	vliegtuigen	gevechtsvliegtuigen		
+75661365	militaire luchtvaart	1	2	luchtvaart	militaire luchtvaart			
+75626365	volksgeneeskunde	1	2	geneeskunde	volksgeneeskunde			
+75642085	trinidad en tobago	1	1	trinidad en tobago				
+290972884	crisisbeheersing	1	2	management	crisisbeheersing			
+75664747	verkeersrecht	1	2	recht	verkeersrecht			
+75664690	verbandleer	1	3	sport	sportgeneeskunde	verbandleer		
+75664968	vliegeigenschappen	1	1	vliegeigenschappen				
+75604434	doping	1	4	chemie	toegepaste chemie	farmacologie	doping	
+75610299	intelligentietests	1	5	sociale wetenschappen	psychologie	psychotechniek	psychologische tests	intelligentietests
+07566075x	leerlingbegeleiding	1	2	onderwijsbegeleiding	leerlingbegeleiding			
+75685582	slachterijen	1	1	slachterijen				
+75626144	vlees	1	2	voedingsmiddelen	vlees			
+75615606	moerassen	1	2	watergebieden	moerassen			
+75602431	bijbelvertaling	1	1	bijbelvertaling				
+111827876	zuidwest-afrika	1	1	zuidwest-afrika				
+75656477	aandrijftechniek	1	2	werktuigbouwkunde	aandrijftechniek			
+75659859	huisvuil	1	3	milieuverontreiniging	afvalstoffen	huisvuil		
+75659395	geschiedenisonderwijs	1	2	onderwijs	geschiedenisonderwijs			
+75613646	leerplannen	1	2	onderwijskunde	leerplannen			
+75609541	huiselijk leven	1	4	sociale wetenschappen	sociologie	gezinssociologie	huiselijk leven	
+75606143	films	1	3	communicatiemedia	massamedia	films		
+75607212	geneeskundigen	1	1	geneeskundigen				
+75627205	werkende jongeren	1	2	jeugd	werkende jongeren			
+75601699	boerenopstanden	1	1	boerenopstanden				
+75602342	burgeroorlogen	1	2	oorlogen	burgeroorlogen			
+07560924x	homoseksualiteit	1	2	seksualiteit	homoseksualiteit			
+07561846x	permanente educatie	1	2	onderwijs	permanente educatie			
+296616575	mekongdelta	1	1	mekongdelta				
+75661012	luizen	1	5	dieren	ongewervelde dieren	geleedpotige dieren	insecten	luizen
+412422638	compost	1	1	compost				
+265247055	harare	1	2	zimbabwe	harare			
+75657619	binnenwateren	1	1	binnenwateren				
+29456957x	shanghai	1	2	china	shanghai			
+75663473	rolstoelen	1	4	technologie	medische technologie	medische instrumenten en apparaten	rolstoelen	
+251787052	karnataka	1	2	india	karnataka			
+07566321x	radioactief afval	1	3	milieuverontreiniging	afvalstoffen	radioactief afval		
+235173215	oost-groningen (prov.)	1	3	nederland	groningen (prov.)	oost-groningen (prov.)		
+75611880	kinderverlamming	1	4	ziekteleer	spierziekten	verlamming	kinderverlamming	
+75690381	geïntegreerde software	1	3	computers	software	geïntegreerde software		
+164132988	gemeentelijke herindeling	1	1	gemeentelijke herindeling				
+75618044	papier	1	1	papier				
+75661985	ongevallen	1	1	ongevallen				
+75665670	zelfhulp	1	2	hulpverlening	zelfhulp			
+75656949	appartementsrecht	1	3	recht	zakenrecht	appartementsrecht		
+75625474	verenigingen	1	2	rechtspersonen	verenigingen			
+75612283	koffie	1	2	dranken	koffie			
+85840211	celebes	1	2	indonesië	celebes			
+335886779	indus (rivier)	1	1	indus (rivier)				
+75602059	brandweer	1	1	brandweer				
+75663686	seksualiteit ; vrouwen	1	2	seksualiteit	seksualiteit ; vrouwen			
+75600838	beroepsvoorlichting	1	2	voorlichting	beroepsvoorlichting			
+75650002	audiovisuele leermiddelen	1	2	leermiddelen	audiovisuele leermiddelen			
+75615169	metselwerk	1	3	techniek	bouwtechniek	metselwerk		
+75662043	openbaarheid van bestuur	1	1	openbaarheid van bestuur				
+75609126	historische geologie	1	3	natuurwetenschappen	geologie	historische geologie		
+75617099	onderwijzers (m/v)	1	1	onderwijzers (m/v)				
+75603179	compressoren	1	1	compressoren				
+242301967	roerdal	1	3	nederland	limburg	roerdal		
+75668866	jemen	1	1	jemen				
+07560616x	filosofische stelsels	1	1	filosofische stelsels				
+75607263	genotmiddelenindustrie	1	3	economie	industrie	genotmiddelenindustrie		
+75660482	koopkracht	1	1	koopkracht				
+75658844	elektrostatica	1	2	natuurkunde	elektrostatica			
+75600579	beeldschermen	1	3	computers	computers ; randapparatuur	beeldschermen		
+148463568	intellectuele eigendom	1	2	recht	intellectuele eigendom			
+07560194x	bouwmaterialenindustrie	1	3	economie	industrie	bouwmaterialenindustrie		
+07566805x	straathandel	1	2	handel	straathandel			
+229492401	nairobi	1	2	kenia	nairobi			
+75620022	radiotechniek	1	3	techniek	telecommunicatietechniek	radiotechniek		
+75600080	babyvoeding	1	2	voeding	babyvoeding			
+333008200	probiotica	1	2	voedingsmiddelen	probiotica			
+75661616	nederlandse letterkunde ; 17e-18e eeuw	1	3	letterkunde	nederlandse letterkunde	nederlandse letterkunde ; 17e-18e eeuw		
+75615932	museologie	1	1	museologie				
+75685361	politieke filosofie	1	2	filosofie	politieke filosofie			
+75625520	vergiftiging	1	1	vergiftiging				
+75657503	bewegingsonderwijs	1	2	onderwijs	bewegingsonderwijs			
+75605171	elektrotherapie	1	2	therapieën	elektrotherapie			
+75659468	gezinsbegeleiding	1	2	hulpverlening	gezinsbegeleiding			
+75624133	thee	1	2	dranken	thee			
+75657848	bouwrecht	1	2	recht	bouwrecht			
+75604906	egyptische oudheid	1	3	algemene geschiedenis	oude geschiedenis	egyptische oudheid		
+75627043	weefselleer ; plantkunde	1	1	weefselleer ; plantkunde				
+75685736	sanitaire installaties	1	3	techniek	installatietechniek	sanitaire installaties		
+75662825	persoonsregistratie	1	1	persoonsregistratie				
+75622122	sociologie	1	2	sociale wetenschappen	sociologie			
+75617129	onkruid	1	2	planten	onkruid			
+195021657	british-columbia	1	4	amerika (dubbelcontinent)	noord-amerika	canada	british-columbia	
+75665115	vredesbeleid	1	1	vredesbeleid				
+75660318	kevers	1	5	dieren	ongewervelde dieren	geleedpotige dieren	insecten	kevers
+75649772	landhervormingen	1	1	landhervormingen				
+75637081	faeröer	1	1	faeröer				
+139414908	shetland islands	1	3	verenigd koninkrijk	groot-brittannië	shetland islands		
+75603756	dekolonisatie	1	2	kolonialisme	dekolonisatie			
+75685159	noord-amerika	1	2	amerika (dubbelcontinent)	noord-amerika			
+75671204	koerdistan	1	1	koerdistan				
+75600994	bevolkingspolitiek	1	2	politiek	bevolkingspolitiek			
+75633825	turkije	1	1	turkije				
+75622009	sociale filosofie	1	2	filosofie	sociale filosofie			
+75642050	syrië	1	1	syrië				
+158932684	andes	1	3	amerika (dubbelcontinent)	zuid-amerika	andes		
+170380572	centraalafrikaanse republiek	1	1	centraalafrikaanse republiek				
+75642123	florence	1	2	italië	florence			
+75621924	sociaal-economische geschiedenis	1	2	geschiedenis	sociaal-economische geschiedenis			
+75633981	sovjet-unie	1	1	sovjet-unie				
+75619571	prostitutie	1	1	prostitutie				
+303455632	praktijkonderwijs	1	2	onderwijs	praktijkonderwijs			
+390869821	passend onderwijs	1	2	onderwijs	passend onderwijs			
+75657740	bodembemesting	1	5	economie	agrosector	landbouw	mest	bodembemesting
+75662078	oppervlaktewater	1	2	water	oppervlaktewater			
+75615959	muziek	1	2	kunst	muziek			
+75603446	coöperaties	1	2	ondernemingsvormen	coöperaties			
+75621150	schapen	1	4	dieren	zoogdieren	hoefdieren	schapen	
+75607425	psychogeriatrie	1	2	psychiatrie	psychogeriatrie			
+408341610	porto alegre	1	4	amerika (dubbelcontinent)	zuid-amerika	brazilië	porto alegre	
+75601265	binnenvaart	1	3	vervoer	scheepvaart	binnenvaart		
+75654105	mediabeleid	1	2	overheidsbeleid	mediabeleid			
+75603136	communicatietheorie	1	1	communicatietheorie				
+75602555	caritas	1	1	caritas				
+75631008	groot-brittannië	1	2	verenigd koninkrijk	groot-brittannië			
+75602296	bureaucratie	1	2	overheidsorganisatie	bureaucratie			
+75618583	petrochemische industrie	1	3	economie	industrie	petrochemische industrie		
+75603764	deltawerken	1	4	bouwkunde	waterbouwkunde	waterkeringen	deltawerken	
+07564326x	oosterschelde	1	3	nederland	zeeland (prov.)	oosterschelde		
+75645696	jordanië	1	1	jordanië				
+260061239	jordaanvallei	1	1	jordaanvallei				
+75664526	turken	1	4	antropologie	culturele antropologie	etnische groepen ; nederland	turken	
+260342890	lake naivasha	1	2	kenia	lake naivasha			
+75621304	schoenen	1	1	schoenen				
+75616815	oceanen	1	1	oceanen				
+75627159	welzijnsbeleid	1	1	welzijnsbeleid				
+75600862	beroepsonderwijs	1	2	onderwijs	beroepsonderwijs			
+75603985	dieetleer	1	2	voedingsleer	dieetleer			
+75629844	australië	1	1	australië				
+392834626	natuurlijke hulpbronnen	1	1	natuurlijke hulpbronnen				
+07562723x	werkgevers	1	1	werkgevers				
+392765667	bedrijfsongelukken	1	2	ongevallen	bedrijfsongelukken			
+75620537	reptielen	1	2	dieren	reptielen			
+75635275	energie	1	1	energie				
+75624087	textiel	1	1	textiel				
+90860993	spitsbergen	1	2	noorwegen	spitsbergen			
+75626772	walvisvangst	1	2	jacht	walvisvangst			
+75668262	gezondheidswetenschappen	1	1	gezondheidswetenschappen				
