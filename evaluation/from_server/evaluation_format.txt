@@ -1,0 +1,10 @@
+
+<identifier>;<brinkey_1>;<brinkey_2>;...;<brinkey_20>
+
+
+e.g.:
+
+eur-oai-repub.eur.nl-100016;07561135X;75657260;;;;;;;;;;;;;;;;;
+
+Indicate in your filename whether the first column has uni identifiers or PPN identifiers
+User PPNs for brinkeys rather than the words
